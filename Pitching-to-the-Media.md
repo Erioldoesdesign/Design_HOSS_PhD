@@ -41,3 +41,14 @@ The key points to this piece are:
 * And finally wrapping up with how this improves the design community/industry as a whole.
 
 The piece would leave readers/listeners with the state of the community as it is now and the future where a shift in design culture means meaningful involvement in core, collaborative and global technology tools and communities further embeds design as a critical part of how we calibrate and build useable, user focussed technology that benefits designers heart, head and career development.
+
+
+### Pitch readers look for
+* Hook, groundbreaking, counter-intuitive. Can't have been heard before.
+* Why would someone care or click on this? Sum it in one line + image. Needs to be sellable to audience.
+* 4-5 points which feel like enough to fill a film with.
+* https://www.bbc.co.uk/ideas/
+* Not too long, not too technical.
+* Less or no citations.
+* Not interested in nuetral.
+* Are they current and comfortable speaking on the topic.
