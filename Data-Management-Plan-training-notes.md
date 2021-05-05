@@ -1,4 +1,4 @@
-# Data Management Plan 
+# Data Management Plan training notes
 
 Final DMP pending attending formal universit training on DMP's in Q2 2021.
 
@@ -27,3 +27,11 @@ It is common that most deposits in data.ncl will be licenced under a version of 
 Permissive (weak copyleft): MIT and Apache 2.0 allow the code to be used and redistributed under different licences and used for commercial uses. 
 
 Strongly protective (strong copyleft): GPL 3.0+ dictates that when a future piece of software contains some of your code, the software must be distributed under the same licences (i.e. prevents software from becoming proprietary/ commercial use).
+
+
+### Digital Security and Privacy Protection UX Checklist (DSPPUX-Checklist)
+https://github.com/SCheee/DSPPUX-Checklist
+
+
+# Other resources
+
