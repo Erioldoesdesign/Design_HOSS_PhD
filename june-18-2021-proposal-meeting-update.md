@@ -16,11 +16,15 @@
 
 ### Potential case studies
 
-1. Ushahidi
-2. Open Food Network
-3. Chayn
-4. Storyweaver 
-5. HOTOSM https://www.hotosm.org/
-6. IRC OSS
-7. Mutual Aid World aka Resiliance app
-8. 
+1. [Ushahidi](https://www.ushahidi.com/)
+2. [Open Food Network](https://openfoodnetwork.org/)
+3. [Chayn](https://chayn.co/)
+4. [Storyweaver](https://storyweaver.org.in/)
+5. [HOTOSM](https://www.hotosm.org/)
+6. [IRC OSS](https://www.ifrc.org/en/google-custom-search/?q=open%20source)
+7. [Mutual Aid World aka Resiliance app](https://mutualaid.world/)
+8. [Techfugees](https://techfugees.com/)
+9. [Linux Public Health SIG](https://www.lfph.io/)
+10.[Unicef innovation office](https://github.com/unicef)
+11.[Federation of Humanitarian Technology](https://www.federationof.tech/humanitarian-software)
+12.[MERL Centre](https://socialimpact.github.com/insights/collaboration-power-merl-center/)
