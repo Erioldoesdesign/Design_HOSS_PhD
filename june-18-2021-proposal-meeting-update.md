@@ -28,3 +28,6 @@
 10. [Unicef innovation office](https://github.com/unicef)
 11. [Federation of Humanitarian Technology](https://www.federationof.tech/humanitarian-software)
 12. [MERL Centre](https://socialimpact.github.com/insights/collaboration-power-merl-center/)
+13. [Foundation for Public Code](https://publiccode.net/)
+14. [Simple.org](https://www.simple.org/)
+15. [OCCRP Aleph](https://aleph.occrp.org/)
