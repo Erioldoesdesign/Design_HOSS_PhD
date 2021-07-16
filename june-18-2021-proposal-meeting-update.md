@@ -1,6 +1,7 @@
 # Meeting with PhD supervisors July 2021 - A refreshed-look at my proposal
 
 ### Schedule
+  - Mini-background chat.
   - Eriol to update with research proposal and research literature. 
   - Presentation of proposal and updates.
   - What Eriol wants to get out of this research.
@@ -13,12 +14,37 @@
 ## Proposal
 [Original Proposal](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/PhD-proposal-2020.md)
 
-### Key aspects of the research
-
-**This research will discover insights on the impact that humandesign contributions have on HOSS and also the front-line users of HOSS tools.**
+## Quick HOSS visualisation
 
 _"Humanitarian Free and Open Source Software (HFOSS), or sometimes called Humanitarian FOSS, is open source software that somehow benefit the human condition in areas such as health care, economic development, disaster management, ecology, education and more."_
 ![HOSS Diagram](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/images/HFOSS-Venn.png)
+
+### Key aspects of the research
+
+I've added an original proposal statement in bold and then key questions or revisions around that.
+
+**A critical exploration in how human centred designers participate in and improve humanitarian Open Source Software.**
+Q: Measurement for 'improve' need to be defined and by whom? the HOSS or the designer/s or both collaboratively?
+
+
+**This research will critically explore how collaboration between human centred designers, people who manage Humanitarian Open Source Software (HOSS) and users of that software work towards improving the user-centred design of the HOSS. **
+
+Q: "This research will critically explore designers contributions to HOSS to understand the impact that human centred design contributions have on HOSS and the front-line users of HOSS tools." < I think a critical aspect missed in the original proposal was about not just exploring how contribution from HCD to HOSS happens but also the impact on HOSS and Front-line users (FLU's) of HOSS. The means of participation is interesting but my hunch is in a humanitarian context the impact is a key indicator of 'worthwhileness' of the engagement overall.
+
+**TBC rest of proposal review & rewrite**
+
+
+### Original Research questions
+
+What gaps can be identified in the ways that HOSS projects currently interact and communicate with designers and users that differ in their interaction and communication with engineers?  Gap analysis of HOSS, designer/s and user interactions and communications.
+
+From these gaps, how can we inform designers, HOSS and users with complementary knowledge of each other in order to better collaborate? Testable information exchange structure between HOSS, Designer/s and users with M&E of the impact of the testable structure.
+
+What mechanisms could support greater collaboration between stakeholders (HOSS, designers, users) to support HOSS to achieve results for communities in need of humanitarian assistance? Facilitated collaborative workshops.
+
+Can we measure the impact of human-centred design on HOSS from these collaboration mechanisms? Statistical analysis of the impact HCD contributions have had on the HOSS, focusing on meeting user needs.
+
+What does a peer-support, global, collaborative design community need in order to support itself when collaborating with and on HOSS? Qualitative data from stakeholders that informs recommendations for community structures that indenture healthy HCD contribution to HOSS.
 
 
 
