@@ -10,11 +10,13 @@ This is the repository where Eriol Fox is collecting their PhD research details 
 ## Propsal documents
 
 [Research Proposal](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/PhD-proposal-2020.md)
+[Updated Proposal]()
 
 
 ## Keywords for papers search
-Usability, Humanitarian, Design, workshop, open source design, UX, UI, 
-
+For design + OSS papers: Usability, OSS, FLOSS, Design, Workshop, Open Source Design, User experience (UX), User Interface (UI), Community, Inclusion, 
+For design + humanitarian papers: Humanitarian, Innovation,
+For design + humanitarian OSS papers: 
 
 
 
