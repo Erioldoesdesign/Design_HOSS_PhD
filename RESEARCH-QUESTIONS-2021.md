@@ -3,3 +3,9 @@
 2. How do activists, communities and designers envision, describe and articulate future collaborative approaches for HOSS?
 
 3. What human rights centred design mechanisms and resources could support collaborative HOSS for communities of practice engaged in data-based activism and social justice?
+
+# Revised
+
+How do humanitarian organisations and actors currently describe and practice their engagements with HOSS?
+How do activists, communities and designers experience and envision collaborative approaches in humanitarian spaces for HOSS?
+What human centred design mechanisms and resources could support more inclusive collaborative HOSS in humanitarian spaces?
