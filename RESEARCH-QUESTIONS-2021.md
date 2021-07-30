@@ -29,8 +29,8 @@
 # Revised 2
 
 1. How do humanitarian organisations, NGO's and actors currently describe and practice their engagements with HOSS? 
-   1a. How do their beneficiaries currently describe and practice their engagements with HOSS?
+   1a. How do their 'beneficiaries' currently describe and practice their engagements with HOSS? (if at all)
 
 2. How do activists, communities and designers experience and envision collaborative and human centred design approaches in humanitarian spaces for HOSS?
 
-3. What human centred design mechanisms and resources could support more inclusive collaborative HOSS in humanitarian spaces?
+3. What human centred design mechanisms and resources could support more inclusive collaborative HOSS in humanitarian spaces (for 'users' and human centred design contributors)?
