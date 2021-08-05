@@ -17,7 +17,7 @@ Most of the above has focussed on early career designers coming into OSS or desi
 
 I can draw on one example of an established design professional outside of the wider OSS world first coming into it - I had many conversations about how this accomplished and well-established designer was looking around at OSS projects and deciding which to contribute to and why and then, when trying to contribute, finding: 
 1. A lack of enthusiasm and uptake of their advice and design strategy. 
-2. 2. An actively flippant or hostile environment. 
+2. An actively flippant or hostile environment. 
 
 I think here is where we enter a cultural aspect of OSS that is known but could be better mentored within design spaces and that is the cultural phenomenon of ‘How well you know the OSS, How well you know OSS in general and How you integrate into the community’ if we take an example of a very proficient coder perspective into a OSS project where they are contributing for the first time, there is a cultural norm or expectation that even if you are an expert in the programming language of that OSS project that you will still start at the beginning in terms of community ‘credibility’ and be expected to defer to well established members the community for PR review. 
 
