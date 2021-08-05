@@ -30,6 +30,8 @@ Some of this also relates to the work I do as a maintainer/custodian of [opensou
 
 ### Hiring and Interview process
 
+The organisation I'm focussing on during this autoethnography was one that had put out a job advert for the position they were hiring for. Some of the key criteria were
+
 ### Understanding the OSS and other tooling
 
 ### Advocacy across functions and organisational team build
