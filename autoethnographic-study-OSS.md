@@ -53,15 +53,24 @@ Early on in the hiring process the importance was empahsised that advocacy, educ
 
 ### Understanding the OSS and other tooling
 
+Understanding the OSS is one of the first tasks anyone should engage in when they join an OSS project. Understanding the historical context of the project helps to untangle any biases, thought structures or hierarchy that exists within the project in order to effectively begin to design well.
 
 
-### Design strategical embedding 
+### Design strategical embedding and the value of 'delivery'
 
+Something that became increasingly evident in the structure of this OSS project is how design was valued and understood within the exitisting contexts of the OSS and the valued functions within the OSS organisation. This presented most obviously as a focus on 'tangible deliverables' in such that design that was 'visible and a commonly accepted understanding of design' was the most understood and therefore valued. In simpler terms the type of design that was clearly valued was visual design and User Interface design. Any design efforts that were more 'ambigious' were difficult to understand in terms of 'how to operationalise a solution' e.g. results of user testing of a particular feature or part of the experience and the designers extrapolation of the user centred insights therein. Unless these were clearly expressed as UI interventions and presented as such they were not 'valued' as highley as something immediately understandable and executable. This was also true of any verbal or written design recommnedations in issues or in communications channels.
+
+There was a focus on channeling the organisational and developer focused interpretations of 'what was best' in such that often user feedback from testing sessions and user interviews were responded to as 'That's what users always say' or 'We've heard this before and we know this' further compounding the difficulty the project had when presented with 'user expressed' needs that were not obvious 'solutions' that were agreed with by the team e.g. 'We need this function over in this section of the software and we could express this in the UI by a button that does the same function but now here'. Whereas the users would offer feedback like 'I want to be able to do X process quicker or with less confusion and currenty I do this by doing X, Y and Z processes'.
+When users express a 'solution' e.g. 'I want a button here that does X' the role of a design is to truly understand hat problem or task that user is trying to solve that they believe having a button 'there' will solve. The logic being that there may be a better way of solving that problem through design that we have yet to discover.
+
+There was also a tension around time and resourcing of design that relates to the concept of 'value'. Any design that was best understood by the organisation (e.g. UI design, Visual design) was a given as 'good use of time'. Parts of design that were less well understood and why were viewed with some measure of confusion as to the value of organisational resources (paid time). The time that was needed to help the organisation understand the value of non-visual, non-UI design was therefore also viewed as 'non-optional' use of time and resources. This was often expressed through the need for 'solutions' rather than a 'process to a solution' and queries about 'why so much time needed to be spent understanding what we were solving and how' rather than presenting solutions for feedback and opinion-based approval. The effort from design here being the emphasis on a co-created, co-collaborative, open-focussed design process where as many stakeholders are involved and onboarded into the process of understanding. 
 
 
 ### Discussing processes that include 'good' design practices
 
 ### Advocacy across functions and organisational team build
+
+
 
 ### Cross team collaboration challenges: Developer team
 
