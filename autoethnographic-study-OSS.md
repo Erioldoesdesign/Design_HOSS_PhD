@@ -27,18 +27,41 @@ I've spilt this paper into key sections and conversations around particular inte
 Much of this experience relates to my PhD generally and also the work around ['Open Design'](https://github.com/ushahidi/opendesign) which was started in the first Humanitarian OSS organisation I worked in through a grant fund from [Adobe's fund for design](https://www.adobe.com/products/xd/adobe-fund.html).
 Some of this also relates to the work I do as a maintainer/custodian of [opensourcedesign.net](https://opensourcedesign.net/). In terms that the community is generally interested and supportive of design and designers roles in OSS.
 
+### History of the OSS project
+In general terms the history of this OSS project is they've been operational for 10+ years, volunteer founded by some code-experienced people, built upoin previous OSS technology with a specific purpose and supported through various funding means including user fees, grant funding and consultancy commision work.
+There was a large amount of technical debt (over 400+ issues in the backlog) and a large migration project in progress from the old OSS platform that the product was built on originally. Many of the user interface features were 'old fashioned' and difficult for users to figure out intuitively. The users of the tool relied heavily on those that were familiar with the tool from many years of working on the code or setting up for others, the customer support team and documentation user guides. Some work had been done by previous design contractors on improving things like the responsive mobile experience and generally the ux of the tool. 
+
+These design efforts could be described by the ['design by committee'](https://medium.com/swlh/how-to-avoid-design-by-committee-and-why-you-should-at-all-costs-8e8ce78c1058) many of the members of the project had a core belief that they knew what was best for the tool because ['they were users themselves'](https://www.nngroup.com/articles/false-consensus/). On observing previous design projects many were slowed by intensive processes of feedback on incidental details and not a focus on iterative testing with real users (or simulated real users outside of the project) and a difficulty moving away from a mentality that we, the 'owners' or 'maintainers' of the OSS know whats best for our users. Design was beginning to get users involved but there was a hesitency and nervousness with involving users due to 'brand impression' and influenced by previous bad experiences with a design process where improvements were 'promised' and not delivered within the timeline the users who were engaged with expected. 
+
 
 ### Hiring and Interview process
 
-The organisation I'm focussing on during this autoethnography was one that had put out a job advert for the position they were hiring for. Some of the key criteria were
+The organisation I'm focussing on during this autoethnography was one that had put out a job advert for the position they were hiring for. Some of the key criteria were:
+_- To set up the Design practice including seamless onboarding of new designers, and creating a plan for all the tools and assets needed for an efficient ux/design practice (style guide etc)
+- Ownership of platform wide UX optimisation, strategic UX vision and roadmap
+- Hands on production of project based UX assets translating requirements into the optimal user experience to brief developers
+- Ownership of data driven user requirements
+- User testing and user research ownership and analysis_
+
+_Senior Product Designer who loves to work end-to-end. You’ll be helping to set product strategy with your deep knowledge of our users, right through to pairing with engineers to release your work in to the wild. When we say end to end, we really mean it. If you’re someone who has years of research theory but haven’t seen through to shipping the product then perhaps this isn’t the place for you._
+
+I added this snippet from the initial job description posting to give a sense of what the organisation stated that they wanted from the beginning of the hiring process. Job description rarely encompass the entorety of a role and that often eveolves over time and can flex with the different skills that a hire may bring to a role. Outside of the job description I brought an interest in developing a sustainable open source design strategy to the OSS project.
+This was the first 'on staff' designer this org had hired for and they looked to an existing product manager with experience in an additional role to the OSS org to define what was needed from a design hire within the OSS org. They had in the previous 6 months brought on a first time volunteer design contributor to start a large scale back-end redesign process that had some deep user complexity.
+At the same time as a permanent design lead role another support role was hired for of 'product manager'. Existing product managers on the project appeared to have come from a technical project management, coding or domain specific background and many had not done product management in OSS before this project.
+
+Early on in the hiring process the importance was empahsised that advocacy, education and strategy would be a key part of the role in brining the OSS organisation into 'modernity' with non-OSS competitors in terms of how design was built into a process. However, little was spoken about in terms of what design efforts or influence had been done before.
 
 ### Understanding the OSS and other tooling
 
+
+
+### Design strategical embedding 
+
+
+
+### Discussing processes that include 'good' design practices
+
 ### Advocacy across functions and organisational team build
-
-### OFN Design strategical embedding 
-
-### Open Source Design Team building independant of the wider organisation
 
 ### Cross team collaboration challenges: Developer team
 
@@ -46,8 +69,8 @@ The organisation I'm focussing on during this autoethnography was one that had p
 
 ### Cross team collaboration challenges: Community/Users
 
-### Discussing processes that include 'good' design practices
 
 
 
+### Open Source Design Team building independant of the wider organisation
 
