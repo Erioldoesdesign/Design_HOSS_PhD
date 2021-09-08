@@ -68,6 +68,9 @@ There was also a tension around time and resourcing of design that relates to th
 
 ### Discussing processes that include 'good' design practices
 
+In the past this OSS proejct has worked with a handful of independant design contractors and volunteers. Due to the nature of the engagement and the background of these designers the relationship between the OSS project and it's core team members that engaged with the design processes meant that they were considered as 'the stakeholder' of the OSS and not 'A stakeholder' of the OSS. The complexity of 'who are the users and at what capacity?' within OSS projects is a difficult one and varies from OSS project/community to OSS project/community. 
+
+
 ### Advocacy across functions and organisational team build
 
 
