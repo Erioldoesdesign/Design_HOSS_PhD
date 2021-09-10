@@ -73,25 +73,35 @@ These past experiences with designers that were unfamiliar with a community or O
 
 This lack of experience with a user hypothesis and user research led design approach transformed over time into an avoidance of user insight gather by design research and I got the distinct impression it was a worry that the wider user base would want different features and software than the core team. This was later validate in a small piece of user research I was able to do with a more wider user base that did not have as deep investment and involvement in the OSS as the 'core team' did. This research raised points that the core team knew about, but that they had already formulated their own 'solutions' to that they were reasonably convinced would solve the problem for both themsleves and all other users. Product discussions were punctuated with statements such as 'If we just built X then this would solve everyones problems' etc. it was hard to, as a designer helping the OSS team grow their design understanding and maturity, steer them away from solutions focus to an ideation to validation to build and test process.
 
-Working with the development team
+### Our processes and embedding them
 
-Working with the product team
+### Design's value in in OSS as a delivery output
 
-Working with the wider community and customer support teams had both positives and negatives. The positives were generaly the the customer support team did have this deeper insight into how users used and spoke about our OSS tool. However a complication arised when customer support was asked and sometimes pexpected to do the work of user research without support and training. Interview skills for design research are able to be learned but not without supporta nd guidance and often the CS team was performing user research without specifically the improvisation skills needed for contextual inquiry via design research interviews. The CS team had an interest in how design and user research could collaborate but again as seen with the dev team the constraints on cross team collaborationa nd what 'was and wasn't part of a paid role' was difficult to break out of. There was a tension around why CS is doing design work and why design wants to do work that to some, looks like customer facing work. This was hard to convince and express the value of. A similar tension rose within any community engagement tasks and involvement as the wider 'delivery team' saw time spent with the community as time 'not producing outputs'. I expressed many times that time spent with users, community and wider team members produced inisght on what would later become better informed 'outputs' but a strange expectation of 'the designer' surfaced in an expectation that 'the designer should know how to design a good tool or feature' and there was frustration and puzzled attitudes as to why designer spending time 'gathering insight' was valuable. I often expressed this as 'I cannot design affectively for something I do not understand the motivatios of and do not have the context of and that, is what is required of the wider team in terms of 'investment' in design practices and a 'user centred software tool'.
+### Cross team collaboration challenges: Developer team
+
+
+### Cross team collaboration challenges: Product team
+
+
+
+### Cross team collaboration challenges: Customer Support
+
+Working with the  customer support team had both positives and negatives. The positives were generaly the the customer support team did have this deeper insight into how users used and spoke about our OSS tool. However a complication arised when customer support was asked and sometimes pexpected to do the work of user research without support and training. Interview skills for design research are able to be learned but not without supporta nd guidance and often the CS team was performing user research without specifically the improvisation skills needed for contextual inquiry via design research interviews. The CS team had an interest in how design and user research could collaborate but again as seen with the dev team the constraints on cross team collaborationa nd what 'was and wasn't part of a paid role' was difficult to break out of. There was a tension around why CS is doing design work and why design wants to do work that to some, looks like customer facing work. This was hard to convince and express the value of. A similar tension rose within any community engagement tasks and involvement as the wider 'delivery team' saw time spent with the community as time 'not producing outputs'. I expressed many times that time spent with users, community and wider team members produced inisght on what would later become better informed 'outputs' but a strange expectation of 'the designer' surfaced in an expectation that 'the designer should know how to design a good tool or feature' and there was frustration and puzzled attitudes as to why designer spending time 'gathering insight' was valuable. I often expressed this as 'I cannot design affectively for something I do not understand the motivatios of and do not have the context of and that, is what is required of the wider team in terms of 'investment' in design practices and a 'user centred software tool'.
+
+### Cross team collaboration challenges: Community/Users
+Parts of the community however were very receptive to design processes and inclusion and many OSS instance teams and members saw the chance to had design present at thei meetings as a way of 'being heard' by the core OSS team. This to me was building a valuable foundation for respect and inclusion beyond the 'most engaged' users and allowed for more ethnographic gathering of insights regarding our user base. Recording these insights became difficult to maintain.
+
+
+### Cross team collaboration challenges: Designer contributors
+
+Working with a wider OSS design volunteer contributor team became a way in which I as lead designer on the team, introduced a method of critique and checks and baances around the design work that I was producing and building. No single designer in isolation will have an easy time of making design work that meets user needs and all designers (mostly) rwquire a team around them to keep them supported and reflective on their design work. This also helps with wider inclusion work within the design for OSS. The OSS design contributor team fluctuated between 5 to 15 members working on various design tasks managed by myself and mostly self-directed as projects. None of these projects have yet to feed into the priority delivery tasks for this OSS tool.
+Team building independant of the wider organisation...
+
+
+The last note on 'good design processes' and the difficult embedding them has to regard the issue of scale and resources in relation to designs role responsibilities.
 
 
 ### Advocacy across functions and organisational team build
 
 
-
-### Cross team collaboration challenges: Developer team
-
-### Cross team collaboration challenges: Product team
-
-### Cross team collaboration challenges: Community/Users
-
-
-
-
-### Open Source Design Team building independant of the wider organisation
 
