@@ -25,10 +25,10 @@ This report comes at a time when the 3 international humanitarian community is f
 
 
 ## Informed Consent
-Located here:
+Located here: 
 
 ## Participant information sheet
-Located here:
+Located here: https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/Participant-information-sheet.md
 
 
 
