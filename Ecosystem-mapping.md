@@ -51,7 +51,13 @@ Located here: https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/Parti
 6. Do you work with open source software in your innovation with humanitarian/human-rights?
 
 
-Is there anyone else at your organisation that you think I should talk to about humanitarian/human-rights innovation and any work related to design?
+7. Is there anyone else at your organisation that you think I should talk to about humanitarian/human-rights innovation and any work related to design?
+
+
+
+
+**Notes:** Split into 3 sections: What you do and the framing with intersectioning definitions, Innovation and open tech, design activities and methods.
 
 
 ## Collaborative board for conversations
+https://miro.com/app/board/o9J_ltJ2k-w=/?invite_link_id=560477843428
