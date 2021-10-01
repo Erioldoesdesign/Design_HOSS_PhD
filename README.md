@@ -10,7 +10,7 @@ This is the repository where Eriol Fox is collecting their PhD research details 
 ## Propsal documents
 
 [Research Proposal](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/PhD-proposal-2020.md)
-[Updated Proposal]()
+[Updated Proposal](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/research-proposal-versions/Research%20project%20proposal.pdf)
 
 
 ## Keywords for papers search
