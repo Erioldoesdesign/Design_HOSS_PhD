@@ -17,31 +17,41 @@ This guide is for people working in trusts and foundations who want to effective
 The contents of this guide are shaped around conversations within foundations that are focused on equality, justice and human rights.
 Trusts and foundations are referred to collectively as ‘philanthropy’; organisations that receive funding to accomplish socially beneficial outcomes are referred to using ‘the social sector’. Technology is approached as a set of politics and capacities; the term ‘technology’ is used throughout to encompass many ideas, tools and concepts – including those related to ‘data’.
 
-### [Strengthening the Humanitarian
-Innovation Ecosystem Humanitarian Innovation Ecosystem Research Project Final Report May 2015](https://cris.brighton.ac.uk/ws/files/368414/2015%20Rush%20Strengthening%20the%20humanitarian%20ecosystem.pdf)
+### [Strengthening the Humanitarian Innovation Ecosystem Humanitarian Innovation Ecosystem Research Project Final Report May 2015 (https://cris.brighton.ac.uk/ws/files/368414/2015%20Rush%20Strengthening%20the%20humanitarian%20ecosystem.pdf)
 
 **Abstract**
 This report comes at a time when the 3 international humanitarian community is facing unprecedented challenges that are growing in scale, scope and complexity. There is growing awareness of the need for transformational change in what humanitarian actors do and how they do it, to maintain relevance, reputation and impact. This report focuses on new and growing efforts to achieve such change through humanitarian innovation. Wherever it happens, innovation is about creating value through the application of new ideas. But it seldom occurs purely by chance. The overarching aim of this report is to analyse and assess the ecosystem of actors and factors shaping innovation within the humanitarian sector. The objective is to understand and recommend how best to strengthen and improve the humanitarian innovation ecosystem so it can make the best possible contribution to overall humanitarian effectiveness. 
 
 
 ## Informed Consent
-Located here: 
+Located here: https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/consent-form.md
 
 ## Participant information sheet
 Located here: https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/Participant-information-sheet.md
 
 
-
 ## Interview questions draft
 
-1. Why does humanitarian/human-rights innovation matter?
+1. What aspect of humanitarian/human-rights work does your organisation do?
+  a. What part of what you've described are you closesly to in your work or volunteer role?
+
+2. Why does humanitarian/human-rights innovation matter?
   a. In what ways does innovation matter to you and your organisations work?
   b. To whom does innovation matter the most?
   
-2. How would you define innovation within humanitarian/human-rights contexts in your organisation?
-3. What does your organisation and the people that work within your definition of humanitarian/human-rights innovation need to feel or know that innovation is being done?
-4. What processes and methods do you know of and have you used in humanitarian/human-rights innovation in your organisation?
-   a. ARe there any that you know of that you have not been able to use and why?
-5.
+3. How would you define innovation within humanitarian/human-rights contexts in your organisation?
+
+
+4. What does your organisation and the people that work within your definition of humanitarian/human-rights innovation need to feel or know that innovation is being done?
+
+
+5. What processes and methods do you know of and have you used in humanitarian/human-rights innovation in your organisation?
+   a. Are there any that you know of that you have not been able to use and why?
+   
+6. Do you work with open source software in your innovation with humanitarian/human-rights?
+
+
+Is there anyone else at your organisation that you think I should talk to about humanitarian/human-rights innovation and any work related to design?
+
 
 ## Collaborative board for conversations
