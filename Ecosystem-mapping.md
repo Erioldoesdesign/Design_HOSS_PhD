@@ -34,6 +34,14 @@ Located here: https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/Parti
 
 ## Interview questions draft
 
-1. 
+1. Why does humanitarian/human-rights innovation matter?
+  a. In what ways does innovation matter to you and your organisations work?
+  b. To whom does innovation matter the most?
+  
+2. How would you define innovation within humanitarian/human-rights contexts in your organisation?
+3. What does your organisation and the people that work within your definition of humanitarian/human-rights innovation need to feel or know that innovation is being done?
+4. What processes and methods do you know of and have you used in humanitarian/human-rights innovation in your organisation?
+   a. ARe there any that you know of that you have not been able to use and why?
+5.
 
 ## Collaborative board for conversations
