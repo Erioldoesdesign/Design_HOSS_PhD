@@ -102,7 +102,9 @@ Other search sites:
 19. [FarmOS](https://github.com/farmOS)
 20. [Bellingcat OSS](https://github.com/bellingcat/)
 21. [Sugarlabs](https://www.sugarlabs.org/)
-22. [Humanitarian FOSS porject gallery](http://www.hfoss.org/index.php/project_gallery)
+22. [Humanitarian FOSS project gallery](http://www.hfoss.org/index.php/project_gallery)
+23. [Open Archive](https://open-archive.org/)
+24. [osr4rights](https://osr4rights.org/)
 
 
 ## The choice of 'how invovled to be with the HOSS' case study

@@ -1,5 +1,5 @@
 # Proposed Thesis Title:
-## "How do human centred design contributions impact Humanitarian Open Source Software?" A critical exploration in how human centred designers participate in and improve humanitarian Open Source Software.
+## "How do human centred designers currently contribute to Humanitarian Open Source Software (HOSS)? and how is human centred design viewed within HOSS?" A critical exploration in how human centred designers participate in and contribute to humanitarian Open Source Software.
 
 
 ## Proposal Summary:
