@@ -32,31 +32,46 @@ Located here: https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/Parti
 
 ## Interview questions draft
 
+**Notes:** Split into 3 sections: What you do and the framing with intersectioning definitions, Innovation and open tech, design activities and methods.
+
 1. What aspect of humanitarian/human-rights work does your organisation do?
   a. What part of what you've described are you closesly to in your work or volunteer role?
-
-2. Why does humanitarian/human-rights innovation matter?
-  a. In what ways does innovation matter to you and your organisations work?
-  b. To whom does innovation matter the most?
   
-3. How would you define innovation within humanitarian/human-rights contexts in your organisation?
+2. How would you describe how decisions are made regarding technology and innovation internally and with partners or stakeholders? (researcher is looking for hierarchical systems, adhocratic, sociocratic or holocractic mentions)
+   a. Is 'innovation' well invested in?
+  
+3. What does the term 'innovation' in relation to technology mean to you within your organisational context?
+   a. How would you define 'innovation' within humanitarian/human-rights contexts in your organisation?
+   b. Do all or most agree on the definitions and aims of innovation?
 
+4. In what ways does innovation matter to you and your organisations work? 
+  a. Why does humanitarian/human-rights innovation matter to the sector?
+  b. To whom does innovation matter the most?
 
-4. What does your organisation and the people that work within your definition of humanitarian/human-rights innovation need to feel or know that innovation is being done?
+5. What does your organisation and the individuals or teams that work on 'humanitarian/human-rights innovation' need to feel or know that innovation is being done well?
 
-
-5. What processes and methods do you know of and have you used in humanitarian/human-rights innovation in your organisation?
+6. In what ways is your current 'innovation work' networked or shared with other partners and stakeholders?
+   a. If you're able to say who and what organisations?
+   
+7. Do you work with (Free,Libre) open source software (AKA OSS, FLOSS, FOSS) in your innovation with humanitarian/human-rights?
+   a. If you're unsure can you name some of the technology software (and hardware) you use?
+   b. How do you ro your organisation learn about new developments in technology?
+   
+   
+8. What processes and methods do you know of and have you used in humanitarian/human-rights innovation in your organisation?
    a. Are there any that you know of that you have not been able to use and why?
    
-6. Do you work with open source software in your innovation with humanitarian/human-rights?
+9. How is technology, data and ways you work with (beneficiaries etc. use their language) changing the dynamics of the humanitarian/human-rights issues that you and your org care about?
+   a. What are your biggest concerns about how technology will change society within your issue area?
+   b. Are you planning programs to help shape these concerns or changes?
+   
+10. Is there anyone, either internally or externally to your organisation that you feel is not included in innovation that should be?
 
+11. Is there anything else related to the topic we've been talking about today that you want to tell me or talk about?
 
-7. Is there anyone else at your organisation that you think I should talk to about humanitarian/human-rights innovation and any work related to design?
+12. Is there anyone else at your organisation that you think I should talk to about humanitarian/human-rights innovation and any work related to design?
 
-
-
-
-**Notes:** Split into 3 sections: What you do and the framing with intersectioning definitions, Innovation and open tech, design activities and methods.
+13. In relation to you and your work, what difference do you see between 'humanitarian innovation' and 'human-rights innovation'?
 
 
 ## Collaborative board for conversations
