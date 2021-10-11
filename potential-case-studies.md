@@ -28,3 +28,19 @@ Other search sites:
 21. [Sugarlabs](https://www.sugarlabs.org/)
 22. [Humanitarian FOSS porject gallery](http://www.hfoss.org/index.php/project_gallery)
 23. [Signal app](https://www.signal.org/)
+
+
+Oct 2021 list for Ecosystem mapping potential interviewees
+1. Disaster affected communities
+2. Implementing partners
+3. National governments or partners on government innovation
+4. UNDRO
+5. ELRHA
+6. UNICEF
+7. DFID UK
+8. OpenIDEO: Refugee education/research
+9. IFRC
+10. Emergeing technology partners
+11. WHO
+12. 
+13.
