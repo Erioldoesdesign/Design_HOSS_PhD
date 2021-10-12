@@ -1,4 +1,4 @@
-# Consent form where persona data is collected
+# Consent form where personal data is collected
 
 
 ### Project Title
