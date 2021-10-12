@@ -77,7 +77,7 @@ Liberatory design is utilised due to it’s intentions to “…help us better u
 Living labs is a methodology which sits close to open source software processes with co-creation and collaboration at the heart of its processes.
 “A Living Lab is a design research methodology aimed at co-creating innovation through the involvement of aware users in a real-life setting”
 
-![Living Labs diagram](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/images/Living%20labs.001.jpeg?raw=true "Living Labs diagram")
+![Living Labs diagram](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/images/liberatory-design-diagram.png?raw=true "Living Labs diagram")
 
 
 Observations will be made consistently throughout the period of research to monitor changes. HOSS (like much of OSS) has ‘peaks’ and ‘troughs’ dependant on a number of factors including: Volunteer numbers and coordinators, current political and environmental climate, funding, advocacy and technical trends. Longer term consistent monitoring of human-centred design within projects will be able to account for these variations in activity.
