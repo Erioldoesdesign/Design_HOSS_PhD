@@ -10,7 +10,7 @@ This is the repository where Eriol Fox is collecting their PhD research details 
 ## Propsal documents
 
 [Research Proposal](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/PhD-proposal-2020.md)
-[Updated Proposal]()
+[Updated Proposal](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/research-proposal-versions/Research%20project%20proposal.pdf)
 
 
 ## Keywords for papers search
@@ -21,6 +21,8 @@ For design + humanitarian OSS papers:
 
 
 ## Reading list
+
+More easily updatable version here on Notion: https://www.notion.so/erioldoesdesign/PhD-HOSS-Design-e3e871281b2a479395b2e7057087e05d
 
 | Paper, Article or Book  | Link | Keywords   | Follow up papers | Analysis MD | Notes|
 |:--------------:|:----------------------:| ----------:|:-------------:|:-------------:| ------------:|
