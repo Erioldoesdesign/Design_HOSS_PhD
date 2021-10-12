@@ -24,7 +24,11 @@ Please tick or initial where applicable -
 
 - [ ] I agree to audio transcription of the interview I will participate in.
 
-- [ ] I also consent to the retention of this data under the condition that any subsequent use also be restricted to research projects that have gained ethical approval from Newcastle University.  
+- [ ] I consent to the retention of this data under the condition that any subsequent use also be restricted to research projects that have gained ethical approval from Newcastle University.
+
+- [ ] I consent to my anonymised transcriptions to be displayed publicily, in full on an 'open license' (LICENSE TYPE PENDING) repository hosted on GitHub.
+
+- [ ] I consent to my anonymised comments to be displayed publicily, in part on an 'open license' (LICENSE TYPE PENDING) repository hosted on GitHub. e.g. a single anonymised quote or paragraph from your responses to this research.
 
 
 Name/Signature of participant: 
