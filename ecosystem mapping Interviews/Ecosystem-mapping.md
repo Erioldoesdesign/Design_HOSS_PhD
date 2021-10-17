@@ -24,10 +24,10 @@ This report comes at a time when the 3 international humanitarian community is f
 
 
 ## Informed Consent
-Located here: https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/consent-form.md
+Located here: [Consent Form](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/ecosystem%20mapping%20Interviews/consent-form.md)
 
 ## Participant information sheet
-Located here: https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/Participant-information-sheet.md
+Located here: [Information sheet](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/ecosystem%20mapping%20Interviews/Participant-information-sheet.md)
 
 
 ## Interview questions draft

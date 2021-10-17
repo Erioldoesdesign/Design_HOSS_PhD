@@ -54,7 +54,9 @@ At any point you can withdraw yourself from the interview process and wider proj
 
 **What will happen to my information?**
 
-Your information will be located on a 
+Your information responses to the interview will be collected in the form of written/typed notes, transcription, video recording and audio recording will be located on a secure laptop owned by the researcher and a fully anonymised version will be hosted on a [GitHub repository](https://github.com/Erioldoesdesign/Design_HOSS_PhD) under an [open source creative commons license](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/LICENSE.md). Any subsequent written information offered by yourself as the research participants will be located in documents you have created, on the same secure devive owned by the researcher and anonymised versions hosted on the previously mentioned github repository. It is your responsibility to erase any documents and traces of documents from your own device should you want to.
+All collected information can be checked by yourself (the participant) prior to hosting on github to ensure accuracy and anonymisation is satisfactory.
+The information collected from these interviews will inform the wider research on the PhD project stated in the title.
 
 
 **Who do I contact if I have questions about the project?**
@@ -63,10 +65,7 @@ Contact Eriol Fox, PhD researcher on this project at P.Reichelt2@newcastle.ac.uk
 
 **If I want to participate, what do I do?**
 
-You will first need to fill out a https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/consent-form.md
-
-You will need to schedule a time slot for the 1hr 30mins interview with Eriol Fox who will ensure that the time is in calendars and all the appropriate administration is completed.
-
+You will first need to fill out a [Consent Form](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/ecosystem%20mapping%20Interviews/consent-form.md). Once that is complete and recieved by Eriol then you can proceed to schedule a time slot for the 1hr 30mins interview with Eriol Fox who will ensure that the time is in calendars and all the appropriate administration is completed. The interview will then be conducted where you will attend either online or in person (if COVID-19 restrictions allow) and then you may want to check any subsequent information is satisfactorily accurate and anonymised. There may be a follow up request for more information through the communication method that you are comfortable with which you can accept or decline.
 
 
 Yours sincerely,
