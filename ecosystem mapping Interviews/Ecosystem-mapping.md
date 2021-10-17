@@ -32,7 +32,12 @@ Located here: https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/Parti
 
 ## Interview questions draft
 
-**Notes:** Split into 3 sections: What you do and the framing with intersectioning definitions, Innovation and open tech, design activities and methods.
+**Notes:** Split into 3 sections: 
+1. What you do and the framing with intersectioning definitions 
+2. Innovation and open tech
+3. Design activities and methods
+
+--
 
 1. What aspect of humanitarian/human-rights work does your organisation do?
   a. What part of what you've described are you closesly to in your work or volunteer role?
@@ -57,7 +62,6 @@ Located here: https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/Parti
    a. If you're unsure can you name some of the technology software (and hardware) you use?
    b. How do you ro your organisation learn about new developments in technology?
    
-   
 8. What processes and methods do you know of and have you used in humanitarian/human-rights innovation in your organisation?
    a. Are there any that you know of that you have not been able to use and why?
    
@@ -67,12 +71,24 @@ Located here: https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/Parti
    
 10. Is there anyone, either internally or externally to your organisation that you feel is not included in innovation that should be?
 
-11. Is there anything else related to the topic we've been talking about today that you want to tell me or talk about?
+11. What does 'user' (or beneficiary) engagement look like to you and your organisation (could be different)
 
-12. Is there anyone else at your organisation that you think I should talk to about humanitarian/human-rights innovation and any work related to design?
 
-13. In relation to you and your work, what difference do you see between 'humanitarian innovation' and 'human-rights innovation'?
+### Extra Contextual questions
+
+12. Is there anything else related to the topic we've been talking about today that you want to tell me or talk about?
+
+13. Is there anyone else at your organisation that you think I should talk to about humanitarian/human-rights innovation and any work related to design?
+
+14. In relation to you and your work, what difference do you see between 'humanitarian innovation' and 'human-rights innovation'?
 
 
 ## Collaborative board for conversations
 https://miro.com/app/board/o9J_ltJ2k-w=/?invite_link_id=560477843428
+
+
+## Notes for interviewer
+
+- Consider and be aware of the 'six R's' when the user is talking and map on the miro board.
+- Understand how humanitarian orgs like to portray themselves as proficient and 'doing well' in order to appear fundable.
+
