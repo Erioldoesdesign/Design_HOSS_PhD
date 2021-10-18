@@ -86,3 +86,40 @@ _What metadata is produced about the data generated from the research? For examp
 
 
 
+## 4. Data security and confidentiality of potentially disclosive information
+_This section should be completed if your research data includes personal data relating to human participants in research. For other research, the safeguarding and security of data should also be considered. Information provided will be in line with your ethical review. Please note this section concerns protecting the data._
+
+### 4.1	Main risks to data security
+_All personal data has an element of risk. Summarise the main risks to the confidentiality and security of information related to human participants, the level of risk and how these risks will be managed. Cover the main processes or facilities for storage and processing of personal data, data access, with controls put in place and any auditing of user compliance with consent and security conditions. (https://www.ncl.ac.uk/research/researchgovernance/ethics/gdpr/)_ 
+
+
+
+
+## 5. Data sharing and access
+_Identify any data repository(-ies) that are, or will be, entrusted with archiving, curating and/or sharing data from your study, where they exist for particular disciplinary domains or data types. [Information on repositories is available here](https://www.ncl.ac.uk/library/academics-and-researchers/research/rdm/sharing/)._ 
+
+### 5.1	Suitability for sharing
+_Is the data you propose to collect (or existing data you propose to use) in the study suitable for sharing?  If yes, briefly state why it is suitable.
+If No, indicate why the data will not be suitable for sharing and then go to 5.3._
+
+### 5.2	Discovery by potential users of the research data
+_Indicate how potential new users (outside of your organisation) can find out about your data and identify whether it could be suitable for their research purposes, e.g. through archiving into a research data repository. Will the repository create a persistent identifier (e.g. DOI) to be included in research outputs, including publications?_
+
+### 5.3	Data preservation strategy and standards
+_How long will the data be archived and shared for? Will any data be preserved but not shared? If yes, what is the plan for this long-term archiving?_
+
+
+### 5.4	Restrictions or delays to sharing, with planned actions to limit such restrictions 
+_Restriction to data sharing may be due to participant confidentiality, consent agreements or IPR. Strategies to limit restrictions may include data being anonymised or aggregated; gaining participant consent for data sharing; gaining copyright permissions. For prospective studies, consent procedures should include provision for data sharing to maximise the value of the data for wider research use, while providing adequate safeguards for participants. As part of the consent process, proposed procedures for data sharing should be set out clearly and current and potential future risks associated with this explained to research participants._
+
+
+## 6.	Responsibilities and Resources
+_Are there any resources (e.g. storage/ training) that you will require to fulfil the plan?_
+
+
+## 7. Relevant institutional, departmental or study policies on data sharing and data security
+
+Policy: https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/LICENSE.md
+Data Management Policy & Procedures: https://www.ncl.ac.uk/media/wwwnclacuk/research/files/ResearchDataManagementPolicy.pdf
+Information Security:https://services.ncl.ac.uk/itservice/policies/InformationSecurityPolicy-v2_1.pdf
+Other: 

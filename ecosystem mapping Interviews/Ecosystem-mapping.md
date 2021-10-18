@@ -40,7 +40,7 @@ Located here: [Information sheet](https://github.com/Erioldoesdesign/Design_HOSS
 --
 
 1. What aspect of humanitarian/human-rights work does your organisation do?
-  a. What part of what you've described are you closesly to in your work or volunteer role?
+  * a. What part of what you've described are you closest to in your work or volunteer role?
   
 2. How would you describe how decisions are made regarding technology and innovation internally and with partners or stakeholders? (researcher is looking for hierarchical systems, adhocratic, sociocratic or holocractic mentions)
    a. Is 'innovation' well invested in?
