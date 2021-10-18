@@ -91,4 +91,5 @@ https://miro.com/app/board/o9J_ltJ2k-w=/?invite_link_id=560477843428
 
 - Consider and be aware of the 'six R's' when the user is talking and map on the miro board.
 - Understand how humanitarian orgs like to portray themselves as proficient and 'doing well' in order to appear fundable.
+- Questions might change wording and structure dependant on teh role of the participant being interviewed e.g. data might be understood as 'information collected about beneficiaries' and 'data' might only mean statistical, numerical information to some people.
 
