@@ -83,7 +83,9 @@ Located here: [Information sheet](https://github.com/Erioldoesdesign/Design_HOSS
 14. In relation to you and your work, what difference do you see between 'humanitarian innovation' and 'human-rights innovation'?
 
 
-## Collaborative board for conversations
+## Collaborative whiteboard for assosicated notes from interviews
+
+This is a collaborative whiteboard hosted on Miro where short form information/data from the interviews will be hosted in order to be pre-sythesised by the researcher and then a follow-up synthesis confirmation, correction or adaptation can be made by the interview participants.
 https://miro.com/app/board/o9J_ltJ2k-w=/?invite_link_id=560477843428
 
 

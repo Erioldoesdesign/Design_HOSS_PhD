@@ -2,8 +2,8 @@
 
 
 ### Project title: 
-**"How do human-centred designers currently contribute to Humanitarian Open Source Software (HOSS) and how is human-centred design viewed within HOSS?”**
-_A critical exploration in how human centred designers participate in and contribute to humanitarian Open Source Software._
+**"The innovation ecosystem within Humanitarian and human-rights organisation**
+_Understanding the connections between, innovation, technology, design and openness.”_ 
 
 ---
 
@@ -12,7 +12,7 @@ _A critical exploration in how human centred designers participate in and contri
 You are invited to participate in the research project described below.
 
 **What is the project about?**
-The purpose of this research is to explore how human-centred design is currently practiced and understood between by the people who create and maintain Humanitarian Open Source Software (HOSS) and users of HOSS. In addition, how do human-centred designers themselves, engage with and contribute to HOSS and why. HOSS and 'open projects' may often be categorised as 'innovation'.
+The purpose of this research is to explore how human-centred design is currently practiced and understood between by people who create and maintain Humanitarian Open Source Software (HOSS) and users of HOSS. In addition, how do human-centred designers themselves, engage with and contribute to HOSS and why. HOSS and 'open projects' may often be categorised as 'innovation'.
 The aim of this critical exploration is to better understand what practices support a collaborative, inclusive and human-centred design process for the HOSS and if the use of the HOSS and relationship to the HOSS, by the beneficiaries, is changed through these human-centred design practices.
 
 This research ask you, the participant to comment on your experiences, knowledge and ideas from both your individual perspective, your role in your organisations perspective and your wider organisational perspective.
@@ -29,10 +29,12 @@ For 1hr 30mins of your time over a secure video/audio call online, with PhD rese
 
 We may ask for a follow up session if we find we could not cover the detail needed for the key questions and this will either be in the form of an additional video/audio call but can also be facilitated through written responses in a secure shared document or encyrpted emails.
 
+We will then ask for a further 1hr of your time between 2 and 6 weeks after your interview to review the findings of the interview and the associations that the researcher has made between your insights and wider humanitarian and human-rights ecosystems.
+
 
 **How much time will the project take?**
 
-The interview will take 1.5 hours. Corrospondance and any follow up will take between 1 month prior to interview and up to 2 weeks post interview to schedule and arrange.
+The interview will take 1hr 30mins. Corrospondance and any follow up will take between 1 month prior to interview and up to 2 weeks post interview to schedule and arrange.
 
 There may be a case where the researcher contact you to do further research activities of a different nature that may take longer periods of time.
 
