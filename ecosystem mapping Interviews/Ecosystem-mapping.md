@@ -4,16 +4,16 @@
 
 ### [Applying an ecosystems approach to humanitarian innovation](https://www.sciencedirect.com/science/article/abs/pii/S004016252031355X)
 **Abstract**
-There is a pressing need for innovation in the humanitarian sector, faced as it is with ever-growing demands for it to respond to the plight of people affected by both human and natural disasters. These are arguably growing in scale, scope, and complexity, and look likely to continue to do so. However, despite being referred to more explicitly in the last ten years, the understanding of humanitarian innovation by practitioners, policymakers, and academics is still very much in its infancy. To help address this issue, this paper drawn on and extends the innovation ecosystems literature to present a systematic framework for analysing innovation in the humanitarian sector. This framework is illustrated using evidence from an interview-based survey of ‘informed’ users and a set of in-depth case studies.
+There is a pressing need for innovation in the humanitarian sector, faced as it is with ever-growing demands for it to respond to the plight of people affected by both human and natural disasters. These are arguably growing in scale, scope, and complexity, and look likely to continue to do so. However, despite being referred to more explicitly in the last ten years, the understanding of humanitarian innovation by practitioners, policymakers, and academics is still very much in its infancy. To help address this issue, this paper draws on and extends the innovation ecosystems literature to present a systematic framework for analysing innovation in the humanitarian sector. This framework is illustrated using evidence from an interview-based survey of ‘informed’ users and a set of in-depth case studies.
 
 ### [Innovation ecosystems: A conceptual review and a new definition](https://www.sciencedirect.com/science/article/pii/S0166497218303870)
 **Abstract**
-The concept of innovation ecosystems has become popular during the last 15 years, leading to a debate regarding its relevance and conceptual rigor, not the least in this journal. The purpose of this article is to review received definitions of innovation ecosystems and related concepts and to propose a synthesized definition of an innovation ecosystem. The conceptual analysis identifies an unbalanced focus on complementarities, collaboration, and actors in received definitions, and among other things proposes the additional inclusion of competition, substitutes, and artifacts in conceptualizations of innovation ecosystems, leading to the following definition: An innovation ecosystem is the evolving set of actors, activities, and artifacts, and the institutions and relations, including complementary and substitute relations, that are important for the innovative performance of an actor or a population of actors. This definition is compatible with related conceptualizations of innovation systems and natural ecosystems, and the validity of it is illustrated with three empirical examples of innovation ecosystems.
+The concept of innovation ecosystems has become popular during the last 15 years, leading to a debate regarding its relevance and conceptual rigour, not the least in this journal. The purpose of this article is to review received definitions of innovation ecosystems and related concepts and to propose a synthesized definition of an innovation ecosystem. The conceptual analysis identifies an unbalanced focus on complementarities, collaboration, and actors in received definitions, and among other things proposes the additional inclusion of competition, substitutes, and artifacts in conceptualizations of innovation ecosystems, leading to the following definition: An innovation ecosystem is the evolving set of actors, activities, and artefacts, and the institutions and relations, including complementary and substitute relations, that are important for the innovative performance of an actor or a population of actors. This definition is compatible with related conceptualizations of innovation systems and natural ecosystems, and its validity illustrated with three empirical examples of innovation ecosystems.
 
 ### [How to Fund Tech](http://alixdunn.com/how-to-fund-tech/)
 **Abstract**
 Many trusts and foundations are grappling with the same challenges: they want to a) support impactful, inclusive technology and innovation in not-for-profit organisations, and b) address the societal changes brought about by emerging technology.
-This guide is for people working in trusts and foundations who want to effectively fund technology. It offers guidance and processes to help in understanding the technical maturity of not-for-profit organisations, or assessing the feasibility of technology-heavy grants. It provides notes on how to have productive conversations with grantees and partners about technology, and it provides tips for building technical intuition.
+This guide is for people working in trusts and foundations who want to effectively fund technology. It offers guidance and processes to help in understanding the technical maturity of not-for-profit organisations or assessing the feasibility of technology-heavy grants. It provides notes on how to have productive conversations with grantees and partners about technology, and it provides tips for building technical intuition.
 The contents of this guide are shaped around conversations within foundations that are focused on equality, justice and human rights.
 Trusts and foundations are referred to collectively as ‘philanthropy’; organisations that receive funding to accomplish socially beneficial outcomes are referred to using ‘the social sector’. Technology is approached as a set of politics and capacities; the term ‘technology’ is used throughout to encompass many ideas, tools and concepts – including those related to ‘data’.
 
@@ -33,9 +33,9 @@ Located here: [Information sheet](https://github.com/Erioldoesdesign/Design_HOSS
 ## Interview questions draft
 
 **Notes:** Split into 3 sections: 
-1. What you do and the framing of what you do with inter-sectioning definitions (about your organisation and you)
-2. Innovation and open tech (about innovation)
-3. Design activities and methods
+1. What does the participant do within the organisation? Explore the intersections of what they do with their comments. (about your organisation and you)
+2. Innovation and open tech. (about innovation)
+3. Design activities and methods.
 
 --
 
@@ -44,9 +44,9 @@ Located here: [Information sheet](https://github.com/Erioldoesdesign/Design_HOSS
 1. What aspect of humanitarian/human-rights work does your organisation do?
    a. What part of what you've described are you closest to in your work or volunteer role?
    
-2. (If not mentioned) Who are your end-users/beneficiaries users/partners CSO’s other NGO’s etc. are people outside of your organisation that you engage with at an org/job level?
+2. Who are the end-users, beneficiaries or partners, CSO’s, other NGO’s etc. outside of your organisation that you engage with at both an organisational and individual job level?
 
-3. What does 'user' (or beneficiary) engagement look like to you and your organisation (could be different)
+3. What does 'user' (or beneficiary) engagement look like to you and your organisation (could be different).
 
 ## About innovation
 
@@ -78,7 +78,7 @@ Located here: [Information sheet](https://github.com/Erioldoesdesign/Design_HOSS
    a. What are your biggest concerns about how technology will change society within your issue area? 
    b. Are you planning programs to help shape these concerns or changes?
 
-3. Do you work with (Free,Libre) open source software (AKA OSS, FLOSS, FOSS) in your innovation with humanitarian/human-rights? 
+3. Do you work with (Free, Libre) open-source software (AKA OSS, FLOSS, FOSS) in your innovation with humanitarian/human rights? 
    a. If you're unsure can you name some of the technology software (and hardware) you use? 
    b. How do you or your organisation learn about new developments in technology?
    
@@ -93,7 +93,7 @@ Located here: [Information sheet](https://github.com/Erioldoesdesign/Design_HOSS
 
 ## Collaborative whiteboard for assosicated notes from interviews
 
-This is a collaborative whiteboard hosted on Miro where short form information/data from the interviews will be hosted in order to be pre-sythesised by the researcher and then a follow-up synthesis confirmation, correction or adaptation can be made by the interview participants.
+This is a collaborative whiteboard hosted on Miro where short-form information/data from the interviews will be hosted in order to be pre-synthesised by the researcher and then a follow-up synthesis confirmation, correction or adaptation can be made by the interview participants.
 https://miro.com/app/board/o9J_ltJ2k-w=/?invite_link_id=560477843428
 
 
@@ -101,4 +101,4 @@ https://miro.com/app/board/o9J_ltJ2k-w=/?invite_link_id=560477843428
 
 - Consider and be aware of the 'six R's' when the user is talking and map on the miro board.
 - Understand how humanitarian orgs like to portray themselves as proficient and 'doing well' in order to appear fundable.
-- Questions might change wording and structure dependant on teh role of the participant being interviewed e.g. data might be understood as 'information collected about beneficiaries' and 'data' might only mean statistical, numerical information to some people.
+- Questions might change wording and structure depending on the role of the participant being interviewed e.g. data might be understood as 'information collected about beneficiaries' and 'data' might only mean statistical, numerical information to some people.
