@@ -72,12 +72,12 @@ When approaching human rights and humanitarian technology I want to look towards
 
 Liberatory design is utilised due to it’s intentions to “…help us better understand challenges in highly complex interconnected systems, to see ways systems of oppression are impacting our context, to root our decision-making in our values, to combat status quo” along with Liberatory designs focus on equity, liberation and power structures within a design process.
 
-![Liberatory Design diagram](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/images/iberatory-design-diagram.png?raw=true "Liberatory Design diagram")
+![Liberatory Design diagram](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/images/liberatory-design-diagram.png?raw=true "Liberatory Design diagram")
 
 Living labs is a methodology which sits close to open source software processes with co-creation and collaboration at the heart of its processes.
 “A Living Lab is a design research methodology aimed at co-creating innovation through the involvement of aware users in a real-life setting”
 
-![Living Labs diagram](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/images/liberatory-design-diagram.png?raw=true "Living Labs diagram")
+![Living Labs diagram](https://raw.githubusercontent.com/Erioldoesdesign/Design_HOSS_PhD/main/images/Living%20labs.001.jpeg "Living Labs diagram")
 
 
 Observations will be made consistently throughout the period of research to monitor changes. HOSS (like much of OSS) has ‘peaks’ and ‘troughs’ dependant on a number of factors including: Volunteer numbers and coordinators, current political and environmental climate, funding, advocacy and technical trends. Longer term consistent monitoring of human-centred design within projects will be able to account for these variations in activity.
