@@ -1,9 +1,26 @@
-### Potential case studies
+
+### Oct 2021 list for Ecosystem mapping potential interviewees
+1. Disaster affected communities
+2. Implementing partners
+3. National governments or partners on government innovation
+4. UNDRO
+5. ELRHA
+6. UNICEF innovation Office
+7. DFID UK
+8. OpenIDEO: Refugee education/research
+9. IFRC
+10. Emergeing technology partners
+11. WHO
+12. Federation of Humanitarian technologists
+13. Techfugees
+
+
+### Case studies
 
 Other search sites: 
-- https://opensource.com/tags/humanitarian
-- http://www.hfoss.org/
-- https://www.dezeen.com/tag/humanitarian-design/
+* https://opensource.com/tags/humanitarian
+* http://www.hfoss.org/
+* https://www.dezeen.com/tag/humanitarian-design/
 
 1. [Ushahidi](https://www.ushahidi.com/) Do they have design resource? - Part-time/contract and OSS volunteers
 2. [Open Food Network](https://openfoodnetwork.org/) Do they have design resource? - OSS volunteers
@@ -26,21 +43,6 @@ Other search sites:
 19. [FarmOS](https://github.com/farmOS)
 20. [Bellingcat OSS](https://github.com/bellingcat/)
 21. [Sugarlabs](https://www.sugarlabs.org/)
-22. [Humanitarian FOSS porject gallery](http://www.hfoss.org/index.php/project_gallery)
+22. [Humanitarian FOSS project gallery](http://www.hfoss.org/index.php/project_gallery)
 23. [Signal app](https://www.signal.org/)
 
-
-Oct 2021 list for Ecosystem mapping potential interviewees
-1. Disaster affected communities
-2. Implementing partners
-3. National governments or partners on government innovation
-4. UNDRO
-5. ELRHA
-6. UNICEF
-7. DFID UK
-8. OpenIDEO: Refugee education/research
-9. IFRC
-10. Emergeing technology partners
-11. WHO
-12. 
-13.
