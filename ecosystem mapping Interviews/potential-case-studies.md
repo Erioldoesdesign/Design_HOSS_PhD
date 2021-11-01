@@ -13,6 +13,8 @@
 11. WHO
 12. Federation of Humanitarian technologists
 13. Techfugees
+14. Asylum Connect
+15. Peace Geeks
 
 
 ### Case studies
@@ -45,4 +47,8 @@ Other search sites:
 21. [Sugarlabs](https://www.sugarlabs.org/)
 22. [Humanitarian FOSS project gallery](http://www.hfoss.org/index.php/project_gallery)
 23. [Signal app](https://www.signal.org/)
+24. Asylum Connect
+25. Tarjimly
+26. USAHello
+27. PeaceGeeks
 
