@@ -11,7 +11,7 @@ _Understanding the connections between, innovation, technology, design and openn
 
 You are invited to participate in the research project described below.
 
-**What is the project about?*
+**What is the project about?**
 
 The purpose of this research is to explore how people that work within humanitarian and human rights organisations describe and understand 'innovation' within their specific organisational context, how they view other organisation and related 'innovation'. We'll be exploring this along with the connection to users, beneficiaries and partner organisations.
 
@@ -89,3 +89,14 @@ You will first need to fill out a [Consent Form](https://github.com/Erioldoesdes
 
 Yours sincerely,
 Eriol Fox
+
+
+---
+
+Additional info for when verbal consent is asked for or confirmed
+
+Ask if the individual understands what data we need, why, and how it will be used (Y/N)
+If no, explain again.
+If yes, ask if you have their consent to capture the required data.
+If yes, proceed with collecting the data and interacting with the person over the project period.
+If no, do NOT capture any data, recommend actions the community member can take to still participate in the project
