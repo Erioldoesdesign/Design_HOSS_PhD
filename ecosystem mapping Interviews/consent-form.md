@@ -2,15 +2,14 @@
 
 
 ### Project Title
-**"How do human-centred designers currently contribute to Humanitarian Open Source Software (HOSS) and how is human-centred design viewed within HOSS?”**
-_A critical exploration in how human centred designers participate in and contribute to humanitarian Open Source Software._
+"The innovation ecosystem within Humanitarian and Human rights organisations. Understanding the connections between, innovation, technology, design and openness from the perspective of worker in organisations.”
 
 ### Principal Investigator: 
 Eriol Fox
 
 Please tick or initial where applicable - 
 
-- [ ] I have carefully read and understood the Participant Information Sheet.
+- [ ] I have carefully read and understood the [Participant Information Sheet](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/ecosystem%20mapping%20Interviews/Participant-information-sheet.md).
 
 - [ ] I have had an opportunity to ask questions and discuss this study and I have received satisfactory answers.
 
