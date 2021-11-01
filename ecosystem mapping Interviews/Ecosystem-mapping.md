@@ -33,54 +33,62 @@ Located here: [Information sheet](https://github.com/Erioldoesdesign/Design_HOSS
 ## Interview questions draft
 
 **Notes:** Split into 3 sections: 
-1. What you do and the framing with intersectioning definitions 
-2. Innovation and open tech
+1. What you do and the framing of what you do with inter-sectioning definitions (about your organisation and you)
+2. Innovation and open tech (about innovation)
 3. Design activities and methods
 
 --
 
+## About your organisation and you
+
 1. What aspect of humanitarian/human-rights work does your organisation do?
-  * a. What part of what you've described are you closest to in your work or volunteer role?
-  
-2. How would you describe how decisions are made regarding technology and innovation internally and with partners or stakeholders? (researcher is looking for hierarchical systems, adhocratic, sociocratic or holocractic mentions)
+   a. What part of what you've described are you closest to in your work or volunteer role?
+   
+2. (If not mentioned) Who are your end-users/beneficiaries users/partners CSO’s other NGO’s etc. are people outside of your organisation that you engage with at an org/job level?
+
+3. What does 'user' (or beneficiary) engagement look like to you and your organisation (could be different)
+
+## About innovation
+
+1. What does the term 'innovation' mean to you within your organisational context? 
+   a. How would you define 'innovation' within humanitarian/human-rights contexts in your organisation? 
+   
+2. Do all or most of the people working in your organisation agree on the definitions and aims of innovation?
+
+3. In what ways does innovation matter to you/your role and your organisations work? 
+   a. Why does humanitarian/human-rights innovation matter to the sector? 
+   b. To whom do you think innovation matters the most?
+   
+4. How would you describe how decisions are made regarding innovation internally and with partners or stakeholders? 
    a. Is 'innovation' well invested in?
-  
-3. What does the term 'innovation' in relation to technology mean to you within your organisational context?
-   a. How would you define 'innovation' within humanitarian/human-rights contexts in your organisation?
-   b. Do all or most agree on the definitions and aims of innovation?
-
-4. In what ways does innovation matter to you and your organisations work? 
-  a. Why does humanitarian/human-rights innovation matter to the sector?
-  b. To whom does innovation matter the most?
-
+   
 5. What does your organisation and the individuals or teams that work on 'humanitarian/human-rights innovation' need to feel or know that innovation is being done well?
 
-6. In what ways is your current 'innovation work' networked or shared with other partners and stakeholders?
+6. In what ways is your current 'innovation work' networked or shared with other partners and stakeholders? 
    a. If you're able to say who and what organisations?
-   
-7. Do you work with (Free,Libre) open source software (AKA OSS, FLOSS, FOSS) in your innovation with humanitarian/human-rights?
-   a. If you're unsure can you name some of the technology software (and hardware) you use?
-   b. How do you ro your organisation learn about new developments in technology?
-   
-8. What processes and methods do you know of and have you used in humanitarian/human-rights innovation in your organisation?
+
+7. Is there anyone, either internally or externally to your organisation that you feel is not included in innovation that should be?
+
+## About design methods and technology
+
+1. What processes and methods do you know of and have you used in humanitarian/human-rights innovation in your organisation? 
    a. Are there any that you know of that you have not been able to use and why?
-   
-9. How is technology, data and ways you work with (beneficiaries etc. use their language) changing the dynamics of the humanitarian/human-rights issues that you and your org care about?
-   a. What are your biggest concerns about how technology will change society within your issue area?
+
+2. How is technology, data and ways you work with (beneficiaries etc. use their language) changing the dynamics of the humanitarian/human-rights issues that you and your org care about? 
+   a. What are your biggest concerns about how technology will change society within your issue area? 
    b. Are you planning programs to help shape these concerns or changes?
+
+3. Do you work with (Free,Libre) open source software (AKA OSS, FLOSS, FOSS) in your innovation with humanitarian/human-rights? 
+   a. If you're unsure can you name some of the technology software (and hardware) you use? 
+   b. How do you or your organisation learn about new developments in technology?
    
-10. Is there anyone, either internally or externally to your organisation that you feel is not included in innovation that should be?
 
-11. What does 'user' (or beneficiary) engagement look like to you and your organisation (could be different)
-
-
+  
 ### Extra Contextual questions
 
 12. Is there anything else related to the topic we've been talking about today that you want to tell me or talk about?
 
-13. Is there anyone else at your organisation that you think I should talk to about humanitarian/human-rights innovation and any work related to design?
-
-14. In relation to you and your work, what difference do you see between 'humanitarian innovation' and 'human-rights innovation'?
+13. In relation to you and your work, what difference do you see between 'humanitarian innovation' and 'human-rights innovation'?
 
 
 ## Collaborative whiteboard for assosicated notes from interviews
@@ -94,4 +102,3 @@ https://miro.com/app/board/o9J_ltJ2k-w=/?invite_link_id=560477843428
 - Consider and be aware of the 'six R's' when the user is talking and map on the miro board.
 - Understand how humanitarian orgs like to portray themselves as proficient and 'doing well' in order to appear fundable.
 - Questions might change wording and structure dependant on teh role of the participant being interviewed e.g. data might be understood as 'information collected about beneficiaries' and 'data' might only mean statistical, numerical information to some people.
-
