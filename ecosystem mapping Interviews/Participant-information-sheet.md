@@ -2,7 +2,7 @@
 
 
 ### Project title: 
-**"The innovation ecosystem within Humanitarian and Human rights organisation**
+**"The innovation ecosystem within Humanitarian and Human rights organisations**
 _Understanding the connections between, innovation, technology, design and openness from the perspective of worker in organisations.”_ 
 
 ---
