@@ -12,7 +12,7 @@ For each participant we will note, transcribe and map their comments to the inte
 Thank you for your time.
 
 
-**What will happen to my information?**
+### What will happen to my information?
 
 Your information will be used to inform an 'ecosystem map' of innovation and related term within humanitarian and human rights work and will be produced in a final paper. No information will lead to any possible privacy breach or identification of participants. The results of the project may be used for a future extension project. 
 
@@ -20,17 +20,17 @@ Your information responses to the interview will be collected in the form of wri
 All collected information can be checked by yourself (the participant) prior to hosting on github to ensure accuracy and anonymisation is satisfactory.
 The information collected from these interviews will inform the wider research on the PhD project stated in the title.
 
-**Why is this data needed?**
+### Why is this data needed?**
 
 This data is needed in order to ensure a diverse and inclusive account of how people within humanitarian and human rights organisations view innovation and who innovation affects. Without this first-hand data we're working on past examples and andecdotal data which has questionable validity.
 
-**Who do I contact if I have questions about the project?**
+### Who do I contact if I have questions about the project?**
 
 Contact Eriol Fox, PhD researcher on this project at P.Reichelt2@newcastle.ac.uk if there are any concerns or queries related to the project. If you have any questions, concerns or complaints about Eriol as part of this project please contact [Supervisor or University](https://www.ncl.ac.uk/computing/staff/profile/rachelclarke.html)
 
 
 
-## Further Reading
+### Further Reading
 
 **Full Research Project hosted on GitHub**
 [The repository where Eriol Fox is collecting their PhD research details and processes](https://github.com/Erioldoesdesign/Design_HOSS_PhD)
@@ -41,8 +41,8 @@ Located here: [Consent Form](https://github.com/Erioldoesdesign/Design_HOSS_PhD/
 **Participant information sheet**
 Located here: [Information sheet](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/ecosystem%20mapping%20Interviews/Participant-information-sheet.md)
 
-[Applying an ecosystems approach to humanitarian innovation](https://www.sciencedirect.com/science/article/abs/pii/S004016252031355X)
-[Innovation ecosystems: A conceptual review and a new definition](https://www.sciencedirect.com/science/article/pii/S0166497218303870)
-[How to Fund Tech](http://alixdunn.com/how-to-fund-tech/)
-[Strengthening the Humanitarian Innovation Ecosystem: Humanitarian Innovation Ecosystem Research Project Final Report May 2015](https://cris.brighton.ac.uk/ws/files/368414/2015%20Rush%20Strengthening%20the%20humanitarian%20ecosystem.pdf)
-[Innovation by design at UNICEF: An Ethnographic case study](https://www.academia.edu/16972372/Innovation_by_Design_at_UNICEF)
+* [Applying an ecosystems approach to humanitarian innovation](https://www.sciencedirect.com/science/article/abs/pii/S004016252031355X)
+* [Innovation ecosystems: A conceptual review and a new definition](https://www.sciencedirect.com/science/article/pii/S0166497218303870)
+* [How to Fund Tech](http://alixdunn.com/how-to-fund-tech/)
+* [Strengthening the Humanitarian Innovation Ecosystem: Humanitarian Innovation Ecosystem Research Project Final Report May 2015](https://cris.brighton.ac.uk/ws/files/368414/2015%20Rush%20Strengthening%20the%20humanitarian%20ecosystem.pdf)
+* [Innovation by design at UNICEF: An Ethnographic case study](https://www.academia.edu/16972372/Innovation_by_Design_at_UNICEF)
