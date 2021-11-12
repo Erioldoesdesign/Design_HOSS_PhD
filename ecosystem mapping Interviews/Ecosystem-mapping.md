@@ -22,6 +22,11 @@ Trusts and foundations are referred to collectively as ‘philanthropy’; organ
 **Abstract**
 This report comes at a time when the 3 international humanitarian community is facing unprecedented challenges that are growing in scale, scope and complexity. There is growing awareness of the need for transformational change in what humanitarian actors do and how they do it, to maintain relevance, reputation and impact. This report focuses on new and growing efforts to achieve such change through humanitarian innovation. Wherever it happens, innovation is about creating value through the application of new ideas. But it seldom occurs purely by chance. The overarching aim of this report is to analyse and assess the ecosystem of actors and factors shaping innovation within the humanitarian sector. The objective is to understand and recommend how best to strengthen and improve the humanitarian innovation ecosystem so it can make the best possible contribution to overall humanitarian effectiveness. 
 
+### [Innovation by design at UNICEF: An Ethnographic case study](https://www.academia.edu/16972372/Innovation_by_Design_at_UNICEF)
+
+**Abstract**
+An ethnographic case study of the Innovation Unit of UNICEF, the United NationsChildren Fund, examines how design attitude approaches manifest within the innovation agendaof the organization. Our analysis illuminates key principles, practices and processes involved inthe programmatic implementation of the innovation mandate at UNICEF and reveals theemergent nature of modes of generative design responsible for new configurations of socialpractices. Thestudy confirms the positive impact of key design attitude dimensions in advancing processes oforganizational change and identifies a set of wins for design while also pointing to real barriersthat illustrate how these design modes remain at the edge of an uncharted territory. At the macro-level of analysis, two important findings of the study reside in elucidating how design attitude inthis organizational context of global innovation is impacted by the themes of accountability andurgency that govern the institutional logics of the organization.
+
 
 ## Informed Consent
 Located here: [Consent Form](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/ecosystem%20mapping%20Interviews/consent-form.md)

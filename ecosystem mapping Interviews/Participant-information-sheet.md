@@ -80,7 +80,7 @@ This data is needed in order to ensure a diverse and inclusive account of how pe
 
 **Who do I contact if I have questions about the project?**
 
-Contact Eriol Fox, PhD researcher on this project at P.Reichelt2@newcastle.ac.uk if there are any concerns or queries related to the project. If you have any questions, concerns or complaints about Eriol as part of this project please contact [Supervisor or University]
+Contact Eriol Fox, PhD researcher on this project at P.Reichelt2@newcastle.ac.uk if there are any concerns or queries related to the project. If you have any questions, concerns or complaints about Eriol as part of this project please contact [Supervisor or University](https://www.ncl.ac.uk/computing/staff/profile/rachelclarke.html)
 
 **If I want to participate, what do I do?**
 
