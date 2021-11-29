@@ -13,7 +13,7 @@ You are invited to participate in the research project described below.
 
 **What is the project about?**
 
-The purpose of this research is to explore how people that work within humanitarian and human rights organisations describe and understand 'innovation' within their specific organisational context, how they view other organisation and related 'innovation'. We'll be exploring this along with the connection to users, beneficiaries and partner organisations.
+The purpose of this project is to explore how people that work within humanitarian and human rights organisations describe and understand 'innovation' within their specific organisational context, how they view other organisation and related 'innovation'. We'll be exploring this along with the connection to users, beneficiaries and partner organisations.
 
 This is in order to better understand what practices support a collaborative, inclusive and human-centred design process for the technologies in use by humanitarian and human rights organisations and if the use of the HOSS and relationship to the HOSS, by the beneficiaries, is changed through these human-centred design practices.
 
