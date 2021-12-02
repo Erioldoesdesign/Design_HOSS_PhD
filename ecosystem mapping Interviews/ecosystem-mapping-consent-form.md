@@ -9,7 +9,7 @@ Eriol Fox
 
 Please tick or initial where applicable - 
 
-- [ ] I have carefully read and understood the [Participant Information Sheet](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/ecosystem%20mapping%20Interviews/Participant-information-sheet.md).
+- [ ] I have carefully read and understood the [Participant Information Sheet](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/ecosystem%20mapping%20Interviews/ecosystem-mapping-participant-information-sheet.md).
 
 - [ ] I have had an opportunity to ask questions and discuss this study and I have received satisfactory answers.
 

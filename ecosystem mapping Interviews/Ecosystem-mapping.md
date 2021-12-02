@@ -29,10 +29,13 @@ An ethnographic case study of the Innovation Unit of UNICEF, the United NationsC
 
 
 ## Informed Consent
-Located here: [Consent Form](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/ecosystem%20mapping%20Interviews/consent-form.md)
+Located here: [Consent Form](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/ecosystem%20mapping%20Interviews/ecosystem-mapping-consent-form.md)
 
 ## Participant information sheet
-Located here: [Information sheet](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/ecosystem%20mapping%20Interviews/Participant-information-sheet.md)
+Located here: [Information sheet](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/ecosystem%20mapping%20Interviews/ecosystem-mapping-participant-information-sheet.md)
+
+## Participant debrief document
+Located here: [Participant debrief document](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/ecosystem%20mapping%20Interviews/ecosystem-mapping-debrief-doc-nov-2021.md)
 
 
 ## Interview questions draft

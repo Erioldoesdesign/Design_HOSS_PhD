@@ -20,11 +20,11 @@ Your information responses to the interview will be collected in the form of wri
 All collected information can be checked by yourself (the participant) prior to hosting on github to ensure accuracy and anonymisation is satisfactory.
 The information collected from these interviews will inform the wider research on the PhD project stated in the title.
 
-### Why is this data needed?**
+### Why is this data needed?
 
 This data is needed in order to ensure a diverse and inclusive account of how people within humanitarian and human rights organisations view innovation and who innovation affects. Without this first-hand data we're working on past examples and andecdotal data which has questionable validity.
 
-### Who do I contact if I have questions about the project?**
+### Who do I contact if I have questions about the project?
 
 Contact Eriol Fox, PhD researcher on this project at P.Reichelt2@newcastle.ac.uk if there are any concerns or queries related to the project. If you have any questions, concerns or complaints about Eriol as part of this project please contact [Supervisor or University](https://www.ncl.ac.uk/computing/staff/profile/rachelclarke.html)
 
@@ -36,10 +36,10 @@ Contact Eriol Fox, PhD researcher on this project at P.Reichelt2@newcastle.ac.uk
 [The repository where Eriol Fox is collecting their PhD research details and processes](https://github.com/Erioldoesdesign/Design_HOSS_PhD)
 
 **Informed Consent**
-Located here: [Consent Form](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/ecosystem%20mapping%20Interviews/consent-form.md)
+Located here: [Consent Form](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/ecosystem%20mapping%20Interviews/ecosystem-mapping-consent-form.md)
 
 **Participant information sheet**
-Located here: [Information sheet](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/ecosystem%20mapping%20Interviews/Participant-information-sheet.md)
+Located here: [Information sheet](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/ecosystem%20mapping%20Interviews/ecosystem-mapping-participant-information-sheet.md)
 
 * [Applying an ecosystems approach to humanitarian innovation](https://www.sciencedirect.com/science/article/abs/pii/S004016252031355X)
 * [Innovation ecosystems: A conceptual review and a new definition](https://www.sciencedirect.com/science/article/pii/S0166497218303870)
