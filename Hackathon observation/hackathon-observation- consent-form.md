@@ -2,14 +2,15 @@
 
 
 ### Project Title
-"The innovation ecosystem within Humanitarian and Human rights organisations. Understanding the connections between, innovation, technology, design and openness from the perspective of worker in organisations.”
+**The innovation ecosystem within Humanitarian and Human rights organisations:** Understanding the connections between, innovation, technology, design and openness from the perspective of worker in organisations.
+
 
 ### Principal Investigator: 
 Eriol Fox
 
 Please tick or initial where applicable - 
 
-- [ ] I have carefully read and understood the [Participant Information Sheet](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/ecosystem%20mapping%20Interviews/Participant-information-sheet.md).
+- [ ] I have carefully read and understood the [Participant Information Sheet]().
 
 - [ ] I have had an opportunity to ask questions and discuss this study and I have received satisfactory answers.
 
