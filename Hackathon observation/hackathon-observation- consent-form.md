@@ -11,7 +11,7 @@ Eriol Fox
 
 Please tick or initial where applicable - 
 
-- [ ] I have carefully read and understood the [Participant Information Sheet]().
+- [ ] I have carefully read and understood the [Participant Information Sheet](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/Hackathon%20observation/hackathon-observation-participant-information-sheet.md).
 
 - [ ] I have had an opportunity to ask questions and discuss this observation study and I have received satisfactory answers.
 
