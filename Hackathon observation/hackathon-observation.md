@@ -27,16 +27,16 @@ Organizational culture has been recognized as an influential factor affecting th
 
 
 ## Informed Consent
-Located here: [Consent Form](#)
+Located here: [Consent Form](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/Hackathon%20observation/hackathon-observation-consent-form.md)
 
 ## Participant information sheet
-Located here: [Information sheet](#)
+Located here: [Information sheet](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/Hackathon%20observation/hackathon-observation-participant-information-sheet.md)
 
 ## Participant debreif document
-Located here: [Debrief Document](#)
+Located here: [Debrief Document](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/Hackathon%20observation/hackathon-observation-debrief-doc.md)
 
 ## Data management plan
-Located here: [](#)
+Located here: [Data Management Plan for the entire PhD](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/data-management-plan.md)
 
 
 ---
