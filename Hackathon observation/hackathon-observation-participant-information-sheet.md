@@ -2,36 +2,63 @@
 
 
 ### Project title: 
-**"The innovation ecosystem within Humanitarian and Human rights organisations**
-_Understanding the connections between, innovation, technology, design and openness from the perspective of worker in organisations.”_ 
+**"Observing Human-centred Design Contributions to Humanitarian/Human Rights Open Source Software:**
+_What collaborations, conversations, processes and cultures are at play between designers, OSS projects, humanitarian/human rights organisations and their beneficiaries._ 
 
 ---
 
 **Dear Participant,**
 
-You are invited to participate in the research project described below.
+You are invited to agree to your participation via observation in the research project described below.
 
 **What is the project about?**
 
-The purpose of this research is to explore how people that work within humanitarian and human rights organisations describe and understand 'innovation' within their specific organisational context, how they view other organisation and related 'innovation'. We'll be exploring this along with the connection to users, beneficiaries and partner organisations.
+The purpose of this research is to critically explore how human-centred design is currently practiced and understood between by the people who create and maintain Humanitarian/Human Rights related Open Source Software (HOSS) and users of the HOSS. In addition, how do human-centred designers themselves, engage with and contribute to HOSS and why.
+The aim of this critical exploration is to better understand what practices support a collaborative, inclusive and human-centred design process for the HOSS and if the use of the HOSS and relationship to the HOSS, by the beneficiaries, is changed through these human-centred design practices. 
 
-This is in order to better understand what practices support a collaborative, inclusive and human-centred design process for the technologies in use by humanitarian and human rights organisations and if the use of the HOSS and relationship to the HOSS, by the beneficiaries, is changed through these human-centred design practices.
+This specific observation study is to first observe 3 hackathons that fit the following criteria:
 
-This research ask you, the participant to comment on your experiences, knowledge and ideas from both your individual perspective, your role in your organisations perspective and your wider organisational perspective.
+1. The hackathon work will be done on an OSS with a license.
+2. The hackathon has a design presence to it e.g. has asked for design contribution or mentioned design in some clear way
+3. The hackathon encourages and facilitates participation from technologists that identify as part of the community that the OSS benefits e.g. Refugees for refugee related technology
+4. The hackathon organisers agree for the hackathon to be observed and agree to the processes laid out in this ethics application.
+
+The second part of this study will be to (as a designer) participate in 1 hackathon that also covers the above criteria.
+
+The researcher will capture and measure the information and data from observations of the hackathon to compare and analyse differences and similarities across a number of metrics such as: Collaboration, successful issue/task completion, participation of designers etc.
+
+The second piece of the observational study practice is to observe how the non-live, text-based humanitarian and human rights OSS tool repositories of 'issues' (tasks for OSS developers and other contributors) develop their discussions and understanding of design and designers along with what processes, methods and tools designers use to encourage collaboration along with any communications platforms outside of these repositories. Repositories are open and public and can be observed without notifying the communities, however many of these communities use communications platforms that are either open (matrix https://matrix.org/) or IRC chats (https://en.wikipedia.org/wiki/Internet_Relay_Chat)
+
+**Areas of observation**
+
+1. Comments and Discussions in issues (GitHub & Gitlab) with both written and visual information on any given 'design intervention/contribution'.
+2. How the 'HOSS project' characterised by those that maintain and 'code' the project discuss and interact with designers contributing to the HOSS.
+3. How the designers interact with specialists or subject matter experts which could be the Humanitarian/Human Rights field workers or direct or indirect beneficiaries of the HOSS that facilitates the Humanitarian/Human Rights work of the org that hosts the HOSS).
+4. How the designers interact with other stakeholder of the HOSS (Humanitarian/Human Rights orh that hosts the HOSS, Developers, Other Designers, Beneficiaries, Subject Matter Experts/Field Workers, Other contributers to HOSS)
+5. Closely monitoring the links between discussion, contribution, collaboration and 'releases' in the HOSS technology and the timeframes involved including how long the changes remain part of the HOSS.
 
 
 **What is the benefit to the community that your project is trying to achieve?**
 
-This project is trying to better achieve a clear understanding and subsequent mapping of the ecosystem of innovation, including the understanding of innovation which may differ from organisation to organisation and person to person. The aim with this project is the results of the participant conversations and mapping exercises will be able to draw clearer distinctions and correlations between information from participants that can be beneficial to their own growing understanding and practice in the area of innovation.
+This project is trying to better achieve a clear understanding of the following questions:
+
+1. How do the stakeholders/actors involved collaborate? With whom and at what frequency? What are the nature of their collaborations?
+2. How do different kinds of collaborations, methods, interactions 'impact' or 'improve' the HOSS and for who  at what scale?
+3. How is design understood throughout the contribution process and what do designers do in order to contribute? How do they themselves categorise their design contributions to HOSS?
+4. How do these interactions, contributions and processes differ from the expected nature of the same subjects? How powerfully do expectations of differing stakeholders play into collboration in HOSS?
+
+
+ The aim with this reasearch is to observe, question and understand how these stakeholders/actors participate, both together and independantly to draw clearer distinctions and correlations between information from participants that can be beneficial to their own growing understanding and practice in the area of innovation.
 
 **Why am I being invited to participate?**
 
-You have been asked to participate due to your current or past work or involvement in humanitarian or human rights work. You may have worked at a large international organisation or a smaller local organisation, in either a paid or unpaid capacity. In this research we want to hear and understand the perspectives of those that have been involved in humanitarian and human rights organisations in a broad sense. You may have operated particularly within an innovation, technology, design/product management or user/beneficiary role. You'll also be aged 18+ and able to give legal, informed consent to participate.
+You have been asked to participate due to your current or past work or involvement in humanitarian or human rights work and specifically because of your involvement/contributions to Humanitarian/Human Rights open source software (HOSS). This is either through contributing to a HOSS through an issue/task submission in Github or Gitlab (or similar) or through involvement with a hackathon or event for a HOSS. You may also work/have worked at an organisation or company that has supported HOSS in some way e.g. sponsoring, company volunteer hours offered to a HOSS etc. in either a paid or unpaid capacity. 
+In this research we want to observe and understand the collaborations, contributions and conversations of those that have been involved in contributing to humanitarian and human rights HOSS in a broad sense and no matter what the nature and size of your contribution or involvement. You'll also be aged 18+ and able to give legal, informed consent to participate.
 
 
 **What will I be asked to do?**
 
-For 1hr 30mins of your time over a secure video/audio call online, with PhD researcher Eriol Fox and a note taking assistant. Where we will start with understanding better what your role is (or was) which will lead into a discussion informed by key questions that investigate your experiences and understanding of humanitarian innovation and how technology is used (or not used) in your organisation along with how you work with users/beneficiaries.
+This observational research doesn't require you to do anything specific other than reading this [Paticipant Information sheet]() and signing the [Consent form](). We also have an additional [Debrief document]() for those that want to follow the research. The observation study relies on you participatinga nd contributing is as natural a way as you would 
 
 We may ask for a follow up session if we find we could not cover the detail needed for the key questions and this will either be in the form of an additional video/audio call but can also be facilitated through written responses in a secure shared document or encyrpted emails. This will not be more than 1hr of additional time.
 
@@ -40,43 +67,41 @@ We will then ask for a further 1hr of your time between 2 and 6 weeks after your
 
 **How much time will the project take?**
 
-The interview will take 1hr 30mins. Corrospondance and any follow up will take between 1 month prior to interview and up to 2 weeks post interview to schedule and arrange.
+The observation research does not require you to do anything extra to what you would typically do when participating in HOSS and/or a hackathon for HOSS/Humanitarian or Human Rights work. 
 
-There may be a case where the researcher contact you to do further research activities of a different nature that may take longer periods of time.
+There may be a case where the researcher contacts you to do further research activities of a different nature that may take longer periods of time but this will be requested on a case by case basis and include a seperate ethical review and consent process.
 
 
 **Are there any risks associated with participating in this project?**
 
-This project asks you to talk about your current or past involvement in humanitarian or human-rights work and therefore understands that there is some information that may need to be abstracted and redacted from the transcription and notes. Any confidential or sensitive information about any humanitarian/human-rights organisations that is noted as being sensitive or classified will not be noted in any documents that can be associated with any individual. Sensitive or classified information that can be used by abstracted will be passed back to the interviewee for clearing before being used within research findings. Any information about individual beneficiaries or people that are recipients of humanitarian/human-rights support or aid will be anonymised and abstrated. 
+This observation research only asks you to participate in the same ways you would typically participate in these project. The only difference being that the reseracher is observing what is happening in order to inform the research detailed in the above sections. 
+However, the researcher recognises that within humanitarian or human-rights work there is some information that may need to be abstracted and redacted from the transcription and notes. Any confidential or sensitive information about any humanitarian/human-rights organisations that is noted as being sensitive or classified will not be noted in any documents that can be associated with any individual. Sensitive or classified information that can be used by abstracted will be passed back to the interviewee for clearing before being used within research findings. Any information about individual beneficiaries or people that are recipients of humanitarian/human-rights support or aid will be anonymised and abstrated. 
 Please consider you own level or organisational or professional risk prior to this project.
 
-There will likely be questions and subjects where you will be asked to refer to past projects in the organisations that you participated in. These can be highly traumatic events to recall and recount information of and the reseracher will be ensuring as much duty of care to the interviewees comfort and health as possible which will include:
-* Asking if you need to stop or take breaks during the interview
-* Asking and ensuring you have adequate care pre and post interview
-* Esuring any sensitive data is redacted or not captured in notes or heavily abstracted to the satisfaction of the participant
-* The project will be conducted in English but if a pariticpant requires translation efforts will be made to seek effective translation
-* There may be participants that have accessibility needs and efforts to ensure comfortable ability to participate will be made
 
 **Any extra vulnerable groups we need to consider?**
 
-We may be talking with people who are actively at risk in their countries or residence in relation to the work that they do in the humanitarian and/or human rights space and we will be ensuring there are decentralised spaces in order to have conversations with high risk participants.
+We may be talking with people who are actively at risk in their countries or residence in relation to the work that they do in the humanitarian and/or human rights space and we will be ensuring any sensitive information that the researcher may be privvy to.
 
 **Can I withdraw from the project?**
 
-At any point you can withdraw yourself from the interview process and wider project by asking for all data and information both digital and non-digital to be destroyed within 30 days in relation to [Article 17 of GDPR](https://gdpr.eu/right-to-be-forgotten/?cn-reloaded=1). This withdrawl does not require any supplimentary information with the request for withdrawl.
+At any point you can withdraw yourself from the observation research, without withdrawing from contribution to the HOSS or hackathon/event, by asking the researcher to omit and/or ignore all data and information both digital and non-digital and to be deleted/destroyed within 30 days if it has been collected. This relates to [Article 17 of GDPR](https://gdpr.eu/right-to-be-forgotten/?cn-reloaded=1). This withdrawl does not require any supplimentary information with the request for withdrawl.
 
 
 **What will happen to my information?**
 
-Your information will be used to inform an 'ecosystem map' of innovation and related term within humanitarian and human rights work and will be produced in a final paper. No information will lead to any possible privacy breach or identification of participants. The results of the project may be used for a future extension project. 
+Observations of the participants and organisations will be collected in the form of written/typed notes, transcription, video recording and audio recording will be located on a secure laptop owned by the researcher and a fully anonymised version will be hosted on a [GitHub repository](https://github.com/Erioldoesdesign/Design_HOSS_PhD) under an [open source creative commons license](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/LICENSE.md) for written research and GPL or Apache or MIT for any future software code written.
+Any subsequent written information offered by the participant/s will be located in local documents they have created, on the same secure device they own and sent to the researchers aforementioned secure device and only if they are either currently publicly accessible or written permission has been given to the researcher in order to use as evidence. 
 
-Your information responses to the interview will be collected in the form of written/typed notes, transcription, video recording and audio recording will be located on a secure laptop owned by the researcher and a fully anonymised version will be hosted on a [GitHub repository](https://github.com/Erioldoesdesign/Design_HOSS_PhD) under an [open source creative commons license](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/LICENSE.md). Any subsequent written information offered by yourself as the research participants will be located in documents you have created, on the same secure devive owned by the researcher and anonymised versions hosted on the previously mentioned github repository. It is your responsibility to erase any documents and traces of documents from your own device should you want to.
+Any subsequent written information offered by yourself as the research participants will be located in documents you have created, on the same secure devive owned by the researcher and anonymised versions hosted on the previously mentioned github repository. It is your responsibility to erase any documents and traces of documents from your own device should you want to.
+
 All collected information can be checked by yourself (the participant) prior to hosting on github to ensure accuracy and anonymisation is satisfactory.
-The information collected from these interviews will inform the wider research on the PhD project stated in the title.
+The information collected from observations will inform the wider research on the PhD project.
 
 **Why is this data needed?**
 
-This data is needed in order to ensure a diverse and inclusive account of how people within humanitarian and human rights organisations view innovation and who innovation affects. Without this first-hand data we're working on past examples and andecdotal data which has questionable validity.
+The participants information will be used to inform the wider understanding of design’s (and designers) place within Humanitarian/Human Rights open source software and will inform ongoing research to be produced in a final paper. No information will lead to any possible privacy breach or identification of participants. The results of the project may be used for a future research as part of the same PhD. Without this first-hand data we're working on past examples and andecdotal data which has questionable validity.
+This observational data is needed in order to ensure a diverse and inclusive account of how people within humanitarian and human rights organisations collaborate with design and designers on their HOSS. Without this first-hand data we're working on past examples and anecdotal data which has questionable validity.
 
 **Who do I contact if I have questions about the project?**
 
@@ -84,7 +109,7 @@ Contact Eriol Fox, PhD researcher on this project at P.Reichelt2@newcastle.ac.uk
 
 **If I want to participate, what do I do?**
 
-You will first need to fill out a [Consent Form](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/ecosystem%20mapping%20Interviews/consent-form.md). Once that is complete and recieved by Eriol then you can proceed to schedule a time slot for the 1hr 30mins interview with Eriol Fox who will ensure that the time is in calendars and all the appropriate administration is completed. The interview will then be conducted where you will attend either online or in person (if COVID-19 restrictions allow) and then you may want to check any subsequent information is satisfactorily accurate and anonymised. There may be a follow up request for more information through the communication method that you are comfortable with which you can accept or decline.
+You will first need to fill out a [Consent Form](). Once that is complete and recieved by Eriol they can then include your discussion, information and contributions within this research. You may want to check any subsequent information is satisfactorily accurate and anonymised. There may be a follow up request for more information through the communication method that you are comfortable with which you can accept or decline.
 
 
 Yours sincerely,
@@ -93,7 +118,7 @@ Eriol Fox
 
 ---
 
-Additional info for when verbal consent is asked for or confirmed
+Additional info for when verbal consent is asked for or confirmed in the circumstances where an individual is not comfortable or able to read/access this information sheet.
 
 Ask if the individual understands what data we need, why, and how it will be used (Y/N)
 If no, explain again.
