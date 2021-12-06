@@ -171,3 +171,4 @@ Data Management Policy & Procedures: https://www.ncl.ac.uk/media/wwwnclacuk/rese
 Information Security:https://services.ncl.ac.uk/itservice/policies/InformationSecurityPolicy-v2_1.pdf
 Other - De-identification:https://nvlpubs.nist.gov/nistpubs/ir/2015/NIST.IR.8053.pdf
 Other - Consent and data minimisation for those affected by humanitarian crisis: https://www.elrha.org/project-blog/early-stage-prototyping-consent-and-data-minimisation-for-those-affected/
+Ethics toolkit for research Data via Newcastle university: https://www.ncl.ac.uk/research/researchgovernance/ethics/ethicstoolkit/toolkitdata/
