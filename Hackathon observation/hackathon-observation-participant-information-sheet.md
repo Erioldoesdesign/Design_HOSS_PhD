@@ -58,7 +58,7 @@ In this research we want to observe and understand the collaborations, contribut
 
 **What will I be asked to do?**
 
-This observational research doesn't require you to do anything specific other than reading this [Paticipant Information sheet](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/Hackathon%20observation/hackathon-observation-participant-information-sheet.md) and signing the [Consent form](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/Hackathon%20observation/hackathon-observation-consent-form.md). We also have an additional [Debrief document](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/Hackathon%20observation/hackathon-observation-debrief-doc-nov-2021.md) for those that want to follow the research. The observation study relies on you participatinga nd contributing is as natural a way as you would 
+This observational research doesn't require you to do anything specific other than reading this [Paticipant Information sheet](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/Hackathon%20observation/hackathon-observation-participant-information-sheet.md) and signing the [Consent form](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/Hackathon%20observation/hackathon-observation-consent-form.md). We also have an additional [Debrief document](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/Hackathon%20observation/hackathon-observation-debrief-doc.md) for those that want to follow the research. The observation study relies on you participatinga nd contributing is as natural a way as you would 
 
 We may ask for a follow up session if we find we could not cover the detail needed for the key questions and this will either be in the form of an additional video/audio call but can also be facilitated through written responses in a secure shared document or encyrpted emails. This will not be more than 1hr of additional time.
 
@@ -109,7 +109,7 @@ Contact Eriol Fox, PhD researcher on this project at P.Reichelt2@newcastle.ac.uk
 
 **If I want to participate, what do I do?**
 
-You will first need to fill out a [Consent Form](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/Hackathon%20observation/hackathon-observation-%20consent-form.md). Once that is complete and recieved by Eriol they can then include your discussion, information and contributions within this research. You may want to check any subsequent information is satisfactorily accurate and anonymised. There may be a follow up request for more information through the communication method that you are comfortable with which you can accept or decline.
+You will first need to fill out a [Consent Form](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/Hackathon%20observation/hackathon-observation-consent-form.md). Once that is complete and recieved by Eriol they can then include your discussion, information and contributions within this research. You may want to check any subsequent information is satisfactorily accurate and anonymised. There may be a follow up request for more information through the communication method that you are comfortable with which you can accept or decline.
 
 
 Yours sincerely,
