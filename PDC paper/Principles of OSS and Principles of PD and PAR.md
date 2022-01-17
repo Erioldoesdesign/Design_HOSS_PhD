@@ -85,19 +85,27 @@ No provision of the license may be predicated on any individual technology or st
 
 
 
-Clearly Defined Boundaries: 	
+### Clearly Defined Boundaries
+
 We clearly articulate the purpose of our project (i.e. our vision, mission, and scope) as well as our values and principles (i.e. the good we manifest in the world, and the way we do our work). We are guided by our purpose and principles in all that we do.
-Appropriate Rules
+
+### Appropriate Rules
 We make agreements that establish fair relationships among contributors, users, our products, and the project itself. We assign licenses that align with our purpose and values. We set clear expectations for contributors regarding the nature of their contributions. 
-Rule-making processes 
+
+### Rule-making processes 
 We make it clear who can participate in what kind of decision-making, under which circumstances. Our decision-making processes are transparent, and account for the diverse perspectives of our community. 
-Monitoring
+
+### Monitoring
 We monitor our adherence to our principles, values, and purpose. We engage in regular testing — of code as well as our assumptions. We share information about the status of our work with the community, and we are committed to improvement when we find it to be needed.
-Sanctions 
+
+### Sanctions 
 When people act in ways that are out of line with our project’s stated principles and purpose, we use a range of methods to encourage re-alignment — from gentle admonishment up to removal from the community of those who can’t or won’t abide by our stated expectations.
-Conflict resolution
+
+### Conflict resolution
 We are committed to fair resolution of disagreements when they arise. The ability to resolve disagreements is distributed and accessible, so that all participants feel like they can participate in the process of resolving conflicts that they are a part of.
-Self-governance
+
+### Self-governance
 Our projects have autonomy to organize ourselves. We make decisions about how we structure our work and our communities as it is appropriate to our projects’ principles, values, and purpose.
-Nestedness/Subsidiarity/Polycentricity
+
+### Nestedness/Subsidiarity/Polycentricity
 We embrace the complexity of our projects, which involve multiple parties and various scales, and so we engage in decision-making at various scales with various parties. Modules exist within broader projects, which might exist within organizations, which might use one or more platforms, which themselves exist within technological ecosystems, such as the broader free/libre open source software community, and so on. Our governance systems coordinate and cooperate across these levels, and we assume that whenever feasible and appropriate, decisions should be made by people who are ‘closest’ to the matter at hand.
