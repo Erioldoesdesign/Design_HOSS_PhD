@@ -12,7 +12,13 @@ This is the repository where Eriol Fox is collecting their PhD research details 
 [Research Proposal from 2020](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/PhD-proposal-2020.md)
 
 [Updated Proposal from August 2021](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/research-proposal-versions/Research%20project%20proposal.pdf)
-[Annual Progression Reports to University]()
+
+[Annual Progression Reports to University](https://github.com/Erioldoesdesign/Design_HOSS_PhD/tree/main/research-proposal-and-progress-updates/annual-progression)
+
+
+### PhD research title
+"How do human-centred designers currently contribute to Humanitarian Open Source Software (HOSS) and how is human-centred design viewed within HOSS?”
+*A critical exploration in how human centred designers participate in and contribute to humanitarian Open Source Software.*
 
 
 ## How can you add ideas to Eriol's reasearch
