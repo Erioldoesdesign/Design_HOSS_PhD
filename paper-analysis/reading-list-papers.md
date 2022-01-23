@@ -1,4 +1,4 @@
-## Reading list
+## Papers reading list
 
 More easily updatable version here on Notion: https://www.notion.so/erioldoesdesign/PhD-HOSS-Design-e3e871281b2a479395b2e7057087e05d
 
