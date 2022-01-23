@@ -10,6 +10,7 @@ This is the repository where Eriol Fox is collecting their PhD research details 
 ## Propsal documents
 
 [Research Proposal from 2020](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/PhD-proposal-2020.md)
+
 [Updated Proposal from August 2021](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/research-proposal-versions/Research%20project%20proposal.pdf)
 [Annual Progression Reports to University]()
 
@@ -35,7 +36,7 @@ P.Reichelt2@newcastle.ac.uk for any specific locations of where your contributio
 The folder for any supplementary images is located [here](https://github.com/Erioldoesdesign/Design_HOSS_PhD/tree/main/images)
 
 ## Presentations
-The folder for any presentation type data or presentations that Eriol has created in order to communicate their PhD and related research can be found[here](https://github.com/Erioldoesdesign/Design_HOSS_PhD/tree/main/presentations).
+The folder for any presentation type data or presentations that Eriol has created in order to communicate their PhD and related research can be found [here](https://github.com/Erioldoesdesign/Design_HOSS_PhD/tree/main/presentations).
 
 
 ## Ecosystems Mapping: Innovation in Humanitarian/Human-Rights organisations
