@@ -30,7 +30,10 @@ P.Reichelt2@newcastle.ac.uk for any specific locations of where your contributio
 ## Writing
 
 [Draft WIP writing for future papers that are 'loose' and non-formatted for academia](https://github.com/Erioldoesdesign/Design_HOSS_PhD/tree/main/draft-articles-and-papers)
+
+
 [Papers that are for specific paper submissions and connected looser-writing](https://github.com/Erioldoesdesign/Design_HOSS_PhD/tree/main/final%20papers)
+
 
 ## Images
 The folder for any supplementary images is located [here](https://github.com/Erioldoesdesign/Design_HOSS_PhD/tree/main/images)
