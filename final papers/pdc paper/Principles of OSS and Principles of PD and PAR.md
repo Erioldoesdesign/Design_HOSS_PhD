@@ -1,13 +1,13 @@
-Principles of OSS & Principles of PD & PAR
+# Principles of OSS and Principles of PD & PAR
+
+---
+
+# Principles of OSS
 
 
-Referenced works: https://docs.google.com/document/d/1OLjzRT9u-vjswnVj4AVYtmI8-eYkQPszigkYEkzcH-k/edit#
+## Elinor Ostrom's 8 Principles for Managing A Commmons
 
-
-
-
-8 Principles for Managing a Commons
-
+Referenced works: http://www.onthecommons.org/magazine/elinor-ostroms-8-principles-managing-commmons#sthash.41M0i3c5.dpbs
 
 1. Define clear group boundaries.
 
@@ -31,7 +31,12 @@ Referenced works: https://docs.google.com/document/d/1OLjzRT9u-vjswnVj4AVYtmI8-e
 
 
 8. Build responsibility for governing the common resource in nested tiers from the lowest level up to the entire interconnected system.
-—
+
+
+### How Commons can flourish from Silke Helfrich
+
+Referenced works: https://commons.blog/2012/08/18/how-commons-can-flourish/
+
 
 1.  As a commoner I clearly understand for which resources I need to care for and with whom I share this responsibility. Commons resources are those that we create together, that we maintain as gifts of nature or whose use has been guaranteed to everyone.
 
@@ -49,8 +54,14 @@ Referenced works: https://docs.google.com/document/d/1OLjzRT9u-vjswnVj4AVYtmI8-e
 
 8. We realize that every commons is part of a larger whole. Therefore, different institutions working at different scales are needed to coordinate stewardship and to cooperate with each other.
 
-The Open Source Definition
-Introduction
+
+## The Open Source Definition
+
+From OSI (opensource.org) The Open Source Definition was originally derived from the Debian Free Software Guidelines (DFSG).
+
+Referenced works: https://opensource.org/osd
+
+### Introduction
 Open source doesn't just mean access to the source code. The distribution terms of open-source software must comply with the following criteria:
 
 1. Free Redistribution
@@ -84,28 +95,39 @@ The license must not place restrictions on other software that is distributed al
 No provision of the license may be predicated on any individual technology or style of interface.
 
 
+## Principles for Governing Open Source Commons
+### From the SustainOSS workshop
 
-### Clearly Defined Boundaries
+Referenced works: https://docs.google.com/document/d/1OLjzRT9u-vjswnVj4AVYtmI8-eYkQPszigkYEkzcH-k/edit#
+
+1. Clearly Defined Boundaries
 
 We clearly articulate the purpose of our project (i.e. our vision, mission, and scope) as well as our values and principles (i.e. the good we manifest in the world, and the way we do our work). We are guided by our purpose and principles in all that we do.
 
-### Appropriate Rules
+2. Appropriate Rules
 We make agreements that establish fair relationships among contributors, users, our products, and the project itself. We assign licenses that align with our purpose and values. We set clear expectations for contributors regarding the nature of their contributions. 
 
-### Rule-making processes 
+3. Rule-making processes 
 We make it clear who can participate in what kind of decision-making, under which circumstances. Our decision-making processes are transparent, and account for the diverse perspectives of our community. 
 
-### Monitoring
+4. Monitoring
 We monitor our adherence to our principles, values, and purpose. We engage in regular testing — of code as well as our assumptions. We share information about the status of our work with the community, and we are committed to improvement when we find it to be needed.
 
-### Sanctions 
+5. Sanctions 
 When people act in ways that are out of line with our project’s stated principles and purpose, we use a range of methods to encourage re-alignment — from gentle admonishment up to removal from the community of those who can’t or won’t abide by our stated expectations.
 
-### Conflict resolution
+6. Conflict resolution
 We are committed to fair resolution of disagreements when they arise. The ability to resolve disagreements is distributed and accessible, so that all participants feel like they can participate in the process of resolving conflicts that they are a part of.
 
-### Self-governance
+7. Self-governance
 Our projects have autonomy to organize ourselves. We make decisions about how we structure our work and our communities as it is appropriate to our projects’ principles, values, and purpose.
 
-### Nestedness/Subsidiarity/Polycentricity
+8. Nestedness/Subsidiarity/Polycentricity
 We embrace the complexity of our projects, which involve multiple parties and various scales, and so we engage in decision-making at various scales with various parties. Modules exist within broader projects, which might exist within organizations, which might use one or more platforms, which themselves exist within technological ecosystems, such as the broader free/libre open source software community, and so on. Our governance systems coordinate and cooperate across these levels, and we assume that whenever feasible and appropriate, decisions should be made by people who are ‘closest’ to the matter at hand.
+
+---
+
+# Principles of Participatory Design and Participatory Action Research
+
+
+
