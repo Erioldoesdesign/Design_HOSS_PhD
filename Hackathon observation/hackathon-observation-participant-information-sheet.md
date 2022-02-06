@@ -2,8 +2,7 @@
 
 
 ### Project title: 
-**"Observing Human-centred Design Contributions to Humanitarian/Human Rights Open Source Software:**
-_What collaborations, conversations, processes and cultures are at play between designers, OSS projects, humanitarian/human rights organisations and their beneficiaries._ 
+**"Observing Human-centred Design Contributions to Humanitarian/Human Rights Open Source Software:**_What collaborations, conversations, processes and cultures are at play between designers, OSS projects, humanitarian/human rights organisations and their beneficiaries._ 
 
 ---
 

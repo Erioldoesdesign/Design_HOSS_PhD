@@ -4,9 +4,7 @@
 
 ## Project title, author, version and date
 
-Project: **"How do human-centred designers currently contribute to Humanitarian Open Source Software (HOSS) and how is human-centred design viewed within HOSS?”**
-_A critical exploration in how human centred designers participate in and contribute to humanitarian Open Source Software._
-
+Project: **"Observing Human-centred Design Contributions to Humanitarian/Human Rights Open Source Software:**_What collaborations, conversations, processes and cultures are at play between designers, OSS projects, humanitarian/human rights organisations and their beneficiaries._ 
 Author: Eriol Fox
 
 Version: 1.0
