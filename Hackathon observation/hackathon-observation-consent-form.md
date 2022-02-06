@@ -2,9 +2,7 @@
 
 
 ### Project Title
-**"The innovation ecosystem within Humanitarian and Human rights organisations:**
-_Understanding the connections between, innovation, technology, design and openness from the perspective of worker in organisations.”_
-
+**Observing Human-centred Design Contributions to Humanitarian/Human Rights Open Source Software:** What collaborations, conversations, processes and cultures are at play between designers, OSS projects, humanitarian/human rights organisations and their beneficiaries.
 
 ### Principal Investigator: 
 Eriol Fox
