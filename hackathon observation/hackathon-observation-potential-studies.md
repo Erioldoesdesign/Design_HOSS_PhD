@@ -18,3 +18,13 @@ Search sites:
 2. https://g0v.hackmd.io/iPjhwnHLSGO0Z3B5G9egiQ
 4. https://kyroz.devpost.com/
 5. https://gnec-hackathon-2024.devpost.com/
+6. https://hacktotherescue.org/
+7. https://digitaljustice.tech/
+8. https://hack-for-humanity-2023.devpost.com/
+9. https://watson.brown.edu/chrhs/education/Hack-for-Humanity
+
+## Relevant reading and blogs
+
+https://innovation.mit.edu/blog-post/why-we-hack-for-freedom/
+https://www.coe.int/en/web/national-implementation/-/upcoming-digital-future-of-justice-tjeni-hackathon-on-18-19-november-2023-in-paris
+https://data.europa.eu/en/news-events/news/digital-future-justice-insights-hackathon
