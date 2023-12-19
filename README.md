@@ -33,7 +33,7 @@ P.Reichelt2@newcastle.ac.uk for any specific locations of where your contributio
 
 
 
-## Writing
+## Writing drafts and notes
 
 [Draft WIP writing for future papers that are 'loose' and non-formatted for academia](https://github.com/Erioldoesdesign/Design_HOSS_PhD/tree/main/draft-articles-and-papers)
 
@@ -49,7 +49,6 @@ The folder for any presentation type data or presentations that Eriol has create
 
 
 ## Ecosystems Mapping: Innovation in Humanitarian/Human-Rights organisations
-
 This project is one of the first interview based research pieces for this PhD and the details introducing it can be found in [Ecosystem-mapping.md](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/ecosystem%20mapping%20Interviews/Ecosystem-mapping.md) and subsequent details found [in the folder](https://github.com/Erioldoesdesign/Design_HOSS_PhD/tree/main/ecosystem%20mapping%20Interviews)
 
 
@@ -57,11 +56,28 @@ This project is one of the first interview based research pieces for this PhD an
 This project is one of the first observation research pieces for this PhD and the details introducing it can be found in [hackathon-observation.md](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/Hackathon%20observation/hackathon-observation.md) and subsequent details found [in the folder](https://github.com/Erioldoesdesign/Design_HOSS_PhD/tree/main/Hackathon%20observation)
 
 
-## Keywords for papers search
+## Principles, ethical guidelines, impact, innovation and frameworks
+This is where the discovery and writing work across the broad discovery (found when investigating the ecosystems research piece) that humanitarian and to a lesser extent human rights orgs, designers and some factions of OSS have ways of describing 'how' to do/conduct their work along a set of guidelines. These vary in formality and strictness e.g. the Humanitarian principles being more akin to a doctors hippocratic oath and an OSS license being very close but not equal to a product warranty or patent but more like a standard set by the social systems or regulatory body of OSS. Designers have the least monitored (either socially or by a standards body) set of principles or ethics (outside of an academic environment). [in this folder](https://github.com/Erioldoesdesign/Design_HOSS_PhD/tree/main/principles-of-oss-design-hum-and-hrs)
+
+
+
+## Keywords for other peoples papers search
 For design + OSS papers: Usability, OSS, FLOSS, Design, Workshop, Open Source Design, User experience (UX), User Interface (UI), Community, Inclusion, 
 For design papers: Action Research, AR, Participatory Design, PD, HCI, co-design, co design, community design
 For design + humanitarian/human-rights papers: Humanitarian, Innovation, HOSS, Human-Rights, 
 For design + humanitarian/human-rights + OSS papers: OSS,
+
+
+## Glossary of shortened terms used in this repo an across writing
+HOSS = Humanitarian OSS (the original way of describing the types of OSS this work would focus on which became broadened to include OSS that self descirbes as 'Human Rights OSS')
+H&HROSS = Humanitarian and Human Rights OSS
+hum = humanitarian
+hr = human rights
+hra or hrd = Human Rights Activist/Defender
+pd = Participatory Design
+pra = Participatory Action Research
+SDGS = Sustainable development goals
+
 
 
 ## Reading list + Literature review

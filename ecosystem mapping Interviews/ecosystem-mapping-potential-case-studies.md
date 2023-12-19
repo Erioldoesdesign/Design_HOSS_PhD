@@ -47,8 +47,10 @@ Other search sites:
 21. [Sugarlabs](https://www.sugarlabs.org/)
 22. [Humanitarian FOSS project gallery](http://www.hfoss.org/index.php/project_gallery)
 23. [Signal app](https://www.signal.org/)
-24. Asylum Connect
-25. Tarjimly
-26. USAHello
-27. PeaceGeeks
+24. [Asylum Connect]()
+25. [Tarjimly]()
+26. [USAHello]()
+27. [PeaceGeeks]()
+28. [refugeye](https://github.com/DesignandHuman/refugeye)
+29. [Together app](https://github.com/CashlessSociety/together_app/)
 

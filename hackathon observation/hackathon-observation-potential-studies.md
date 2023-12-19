@@ -20,7 +20,7 @@ Search sites:
 5. https://gnec-hackathon-2024.devpost.com/
 6. https://hacktotherescue.org/
 7. https://digitaljustice.tech/
-8. https://hack-for-humanity-2023.devpost.com/
+8. https://hackforhumanity.io/
 9. https://watson.brown.edu/chrhs/education/Hack-for-Humanity
 
 ## Relevant reading and blogs
