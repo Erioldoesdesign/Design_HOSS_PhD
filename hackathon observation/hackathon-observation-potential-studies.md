@@ -12,6 +12,7 @@ Search sites:
 2. [Coalesce (OSS volunteer management tool) Federation of Humanitarian Technologist’s hackathon to support Camden Giving](https://www.federationof.tech/hackathon)
 3. [Dallas/Virtual Design Sprints](https://medium.com/dallas-design-sprints/virtual-design-sprints-yes-we-can-a4759f23e7e3)
 4. https://thehaguepeace.org/haguehacks/the-hague-hacks-festival/
+5. https://www.vhacks.org/
 
 5. ## Relevant as of 2023
 1. https://www.ushahidi.com/about/blog/want-your-code-to-matter-come-hack-at-ushahidi/
@@ -22,6 +23,8 @@ Search sites:
 7. https://digitaljustice.tech/
 8. https://hackforhumanity.io/
 9. https://watson.brown.edu/chrhs/education/Hack-for-Humanity
+10. https://mlh.io/
+11. https://digitaljustice.tech/
 
 ## Relevant reading and blogs
 

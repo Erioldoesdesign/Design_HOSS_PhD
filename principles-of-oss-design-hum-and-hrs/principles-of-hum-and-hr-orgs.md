@@ -43,6 +43,17 @@ Three main priciples are:
 2. We research to collect **Insights** and create open data platforms that supports the ethics behind our guiding principles whilst elevating those unheard displaced voices to the forefront to amplify their experience.
 3. We orchestrate **Inclusion** programs to provide digital upskilling and access to work opportunities for the tech sector to tap undiscovered digital talent amongst displaced people to foster socio-economic growth  in their new communities.
 
-They then have some specific Hackathon/event related principles covered in my [writing related to my hackathons observation work](#)
+They then have some specific Hackathon/event related principles covered in my [writing related to my hackathons observation work](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/hackathon%20observation/hackathons-situational-awareness.md)
+
+### [The UNHCR IM Tool kit](https://im.unhcr.org/imtoolkit/)
+This is mostly interesting as the data items detailed in this kit could (and in some opionions should) be described as User Research/Data. Information that can be used to inform design decisions across technology and/or tools and processes.
+
+They specifically reference [Tactical Tech](https://www.tacticaltech.org/) and their [design guide (possibly renamed now to Visualising information for advocacy)](https://visualisingadvocacy.org/content/visualising-information-advocacy.html) in the section related to [Infographics](https://im.unhcr.org/imtoolkit/chapters/view/info-graphics/lang:eng)
+
+Additionally the [The UNHCR Tool for Participatory Assessment in Operations](https://www.cwc.westafrica.exposed/wp-content/uploads/2021/03/UNHCR-Tool-for-Participatory-Assessment-in-Operations-1.pdf) has a number of activities and processes that are similar/the same as certain aspects of design research (inclusive of PD and PAR). The document speaks about the 'design' of programs (no technology programs and more like 'programs' of activities in the community) as well as physical layout design of refugee camps etc. Again, as above, these methods of gathering data are invaluable to design researchers working on technology.
 
 
+### [MITD-Lab - Co-Creation Toolkit for Humanitarian Innovation](https://d-lab.mit.edu/innovation-practice/humanitarian-innovation/co-creation-toolkit-humanitarian-innovation)
+*MIT seeks to expand its contributions to the humanitarian sector by piloting and testing a novel approach to teaching co-creation and systems thinking in graduate courses in humanitarian innovation, relief, and response across MIT. MIT D-Lab staff and researchers will develop, deploy, and evaluate a “Co-Creation Toolkit for Humanitarian Innovation” for use in classes that focus on humanitarian innovation and/or engineering design in a humanitarian context.*
+
+This article goes on to describe a number of 'standard' well-known design methods and practices but broadly and vaguely. *multi-stakeholder mapping, analysis, and planning exercises; reflection and introspection exercises*
