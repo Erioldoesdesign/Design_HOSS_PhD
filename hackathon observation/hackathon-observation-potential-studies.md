@@ -17,7 +17,7 @@ Updated: 19.12.2023
 ---
 
 Search sites: 
-* [Devpost's social good filtered Hackathons] (https://devpost.com/hackathons?page=2&status[]=upcoming&themes[]=Social%20Good)
+* [Devpost's social good filtered Hackathons](https://devpost.com/hackathons?page=2&status[]=upcoming&themes[]=Social%20Good)
 * [Devpost's social good filtered Humanitarian](https://devpost.com/hackathons?order_by=deadline&search=humanitarian)
 * [UK hackathons list](https://hack.athon.uk/events/list/)
 * [Hackathon.com's list](https://www.hackathon.com/online)
