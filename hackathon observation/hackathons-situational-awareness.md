@@ -55,6 +55,8 @@ This paper by Máirín Duffy speaks to some of the ways in which OSS culture imp
 
 Of the 29 people that comprised the teams described, it was not stated how many were of what kind of profession/practice - user experience is mentioned but not mentioned in relation to any project (winner or otherwise) and design/user experience methods are not given a chane to explain why/how they played an (important or otherwise) part in the hackathon.
 
+Upon contacting the Hackathon organisers they sent over the hackathon events company ['wrap up'](https://www.kreativdistrikt.com/recap-of-the-digital-future-of-justice-hackathon/) which again did not contacin any references to design processes used in the hackathon. Furthermore the project titles show no related results on github or gitlab. There was also links to some [video recordings](https://www.youtube.com/watch?v=1e4buMXHt-E) of session that happened during the hackathon event
+
 
 ### [HACK FOR HUMANITY - Community Centered Design: Improving the Humanitarian User Experience](https://watson.brown.edu/chrhs/education/Hack-for-Humanity)
 *brings together students to learn about the most pressing needs in the human rights and humanitarian sphere and develop creative ideas for innovative programs or technologies that could help improve the lives of disaster and conflict affected communities around the world.*
@@ -73,6 +75,15 @@ Interestingly this hackathon published the [evaluation criteria](https://watson.
 
 This hackathon mentions design/designers as an integral part of the recruitment phase of the hackthon but [little is said after the event](https://crd.org/2021/04/23/safometer-and-needs-in-transit-equalitech-winning-products-out-now/) by the [civil rights defenders](https://crd.org/) or FLOSSK in how these projects were conducted. Both the projects websites seem to be down as of 2023 but a search on github shows [needsintransit](https://github.com/XhesikaLeka/needsintransit) and [safometer](https://github.com/EdonaHaziraj/Safometer). No issues eithe ropen or closed and no documentattion beyond the code needed to deploy/install those projects exists. [A facebook page](https://www.facebook.com/events/416245782743487/?active_tab=discussion&locale=ms_MY) exists for the event but no discussions have happened 'in the open' despite this being backed by a regional FLOSS (Free Libre Open SOurce Software) organisation.
 
+
+### [Announcing the 6th Global Virtual Design Sprint](https://medium.com/dallas-design-sprints/announcing-the-6th-global-virtual-design-sprint-may-3-28-2021-ef7c4be902ef) and an now unpublished article from 2018 I have saved as a .pdf that I'll reference.
+*the Global Virtual Design Sprint (GVDS), those advancements and explorations are showcased in a month-long event designed to teach others how to do them. With a ‘learn-by-doing’ model at its core, the GVDS brings an international team of practitioners and professionals together to showcase what they do best.*
+*5 out of the 6 teams finished the week with a testable prototype.
+Almost all teams were able to schedule qualified testers to verify their
+designs/approach.*
+
+The Global Virtual Design sprint is what I would describe as a hackathon-like event but focuses on on the design aspects of technology innovation - with the ideal to produc a testable prototype but not the pressure to produce functioning 'code' or 'software'. The official description is only available via [the way back machine as the url is no longer active](https://web.archive.org/web/20210127203038/https://www.virtualdesignsprint.com/gvds5-faq)
+Different to the hackathons noted previously almost all the attendees were some kind of design professional and the processes in place were all 'design' activities. Presumeably aligned with how design sprints are taught in a particular [referenced masterclass](https://go.ajsmart.com/masterclass). One significant thing to note is that the GVDS's are pay to enter, so participants are charged a fee to participate in an event which is not the case for most hackathons where winning teams would instead win a prize.
 
 
 

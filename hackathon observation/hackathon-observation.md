@@ -1,5 +1,21 @@
 # Observation studies
 
+
+## Project title, author, version and date
+
+PhD Project title:**"How do human-centred designers currently contribute to Humanitarian Open Source Software (HOSS) and how is human-centred design viewed within HOSS?”** _A critical exploration in how human centred designers participate in and contribute to humanitarian Open Source Software._
+Author: Eriol Fox
+
+Observation Project Title: **"Observing Human-centred Design Contributions to Humanitarian/Human Rights Open Source Software:** _What collaborations, conversations, processes and cultures are at play between designers, OSS projects, humanitarian/human rights organisations and their beneficiaries._ 
+
+Version: 1.0
+Date: 18.10.2021
+
+Version: 1.1
+Updated: 19.12.2023
+
+---
+
 ## Reference papers
 
 ### [Innovation by design at UNICEF: An Ethnographic case study](https://www.academia.edu/16972372/Innovation_by_Design_at_UNICEF)
@@ -22,6 +38,12 @@ leverage distributed networked communities, of developers and users, to address 
 
 **Abstract**
 Organizational culture has been recognized as an influential factor affecting the successes and failures of usability work in organizations; however, there is a lack of research on organizational culture in open source software (OSS) development. This paper shows that there are different kinds of cultures in OSS development projects and builds propositions on the relationship between culture and usability work in OSS development projects. Partly those are derived from the literature, partly from an exploratory empirical inquiry. We speculate whether there is an ideal culture type for usability work in OSS development or whether usability work should be modified to fit the different cultures of OSS development projects.
+
+
+### [Fedora: A Case Study of Design in a FLOSS Community](https://duffy.fedorapeople.org/presentations/chi%202010%20floss%20hci%20workshop/duffy-flossdesign6.pdf)
+
+**Abstract**
+This paper presents a case study of the process of designing free/libre & open source software (FLOSS) concepts and interfaces within an open FLOSS community – the Fedora Project, a popular Linux-based operating system. This paper will review the challenges faced by designers in getting involved in FLOSS with examples from the Fedora community. It will also provide recommendations for getting started in an open source community as a designer, learned from experiences doing so in Fedora.
 
 ---
 
