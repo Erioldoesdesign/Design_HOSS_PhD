@@ -1,7 +1,17 @@
 ## Participant information sheet
 
-### Project title: 
-**"Observing Human-centred Design Contributions to Humanitarian/Human Rights Open Source Software:**_What collaborations, conversations, processes and cultures are at play between designers, OSS projects, humanitarian/human rights organisations and their beneficiaries._ 
+## Project title, author, version and date
+
+PhD Project title:**"How do human-centred designers currently contribute to Humanitarian Open Source Software (HOSS) and how is human-centred design viewed within HOSS?”** _A critical exploration in how human centred designers participate in and contribute to humanitarian Open Source Software._
+Author: Eriol Fox
+
+Observation Project Title: **"Observing Human-centred Design Contributions to Humanitarian/Human Rights Open Source Software:** _What collaborations, conversations, processes and cultures are at play between designers, OSS projects, humanitarian/human rights organisations and their beneficiaries._ 
+
+Version: 1.0
+Date: 18.10.2021
+
+Version: 1.1
+Updated: 19.12.2023
 
 ---
 
@@ -56,7 +66,7 @@ In this research we want to observe and understand the collaborations, contribut
 
 **What will I be asked to do?**
 
-This observational research doesn't require you to do anything specific other than reading this [Paticipant Information sheet](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/Hackathon%20observation/hackathon-observation-participant-information-sheet.md) and signing the [Consent form](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/Hackathon%20observation/hackathon-observation-consent-form.md). We also have an additional [Debrief document](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/Hackathon%20observation/hackathon-observation-debrief-doc.md) for those that want to follow the research. The observation study relies on you participatinga nd contributing is as natural a way as you would 
+This observational research doesn't require you to do anything specific other than reading this [Paticipant Information sheet](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/hackathon%20observation/hackathon-observation-participant-information-sheet.md) and signing the [Consent form](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/hackathon%20observation/hackathon-observation-consent-form.md). We also have an additional [Debrief document](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/hackathon%20observation/hackathon-observation-debrief-doc.md) for those that want to follow the research. The observation study relies on you participatinga nd contributing is as natural a way as you would 
 
 We may ask for a follow up session if we find we could not cover the detail needed for the key questions and this will either be in the form of an additional video/audio call but can also be facilitated through written responses in a secure shared document or encyrpted emails. This will not be more than 1hr of additional time.
 
@@ -103,7 +113,7 @@ This observational data is needed in order to ensure a diverse and inclusive acc
 
 **Who do I contact if I have questions about the project?**
 
-Contact Eriol Fox, PhD researcher on this project at P.Reichelt2@newcastle.ac.uk if there are any concerns or queries related to the project. If you have any questions, concerns or complaints about Eriol as part of this project please contact [Supervisor or University](https://www.ncl.ac.uk/computing/staff/profile/rachelclarke.html)
+Contact Eriol Fox, PhD researcher on this project at P.Reichelt2@newcastle.ac.uk if there are any concerns or queries related to the project. If you have any questions, concerns or complaints about Eriol as part of this project please contact their [Supervisor or University](https://openlab.ncl.ac.uk/people/david-kirk/) 
 
 **If I want to participate, what do I do?**
 

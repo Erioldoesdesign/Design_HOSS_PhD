@@ -1,7 +1,18 @@
 ## Participant debrief sheet
 
+### PhD Project title:**"How do human-centred designers currently contribute to Humanitarian Open Source Software (HOSS) and how is human-centred design viewed within HOSS?”** _A critical exploration in how human centred designers participate in and contribute to humanitarian Open Source Software._
+Author: Eriol Fox
+
 ### Project title: 
 **Observing Human-centred Design Contributions to Humanitarian/Human Rights Open Source Software:** _What collaborations, conversations, processes and cultures are at play between designers, OSS projects, humanitarian/human rights organisations and their beneficiaries._
+
+ 
+Version: 1.0
+Date: 18.10.2021
+
+Version: 1.1
+Updated: 19.12.2023
+
 
 The purpose of this research was to critically explore how human-centred design is currently practiced and understood between by the people who create and maintain Humanitarian/Human Rights related Open Source Software (HOSS) and users of the HOSS. In addition, how do human-centred designers themselves, engage with and contribute to HOSS and why.
 The aim of this critical exploration was to better understand what practices support a collaborative, inclusive and human-centred design process for the HOSS and if the use of the HOSS and relationship to the HOSS, by the beneficiaries, is changed through these human-centred design practices. 

@@ -1,5 +1,21 @@
 # Hackathons situational awareness
 
+
+## Project title, author, version and date
+
+PhD Project title:**"How do human-centred designers currently contribute to Humanitarian Open Source Software (HOSS) and how is human-centred design viewed within HOSS?”** _A critical exploration in how human centred designers participate in and contribute to humanitarian Open Source Software._
+Author: Eriol Fox
+
+Observation Project Title: **"Observing Human-centred Design Contributions to Humanitarian/Human Rights Open Source Software:** _What collaborations, conversations, processes and cultures are at play between designers, OSS projects, humanitarian/human rights organisations and their beneficiaries._ 
+
+Version: 1.0
+Date: 18.10.2021
+
+Version: 1.1
+Updated: 19.12.2023
+
+---
+
 Ahead of the Hackathon Observation data gathering I read a number of articles, blogs and content pieces from organisationa dn indviduals writing on hackathons. The nature of the hackthons is important, whether they were specifcally focussed on OSS, whether they were Humanitarian/Human Rights technology focused, a combination of OSS + Hum & HR focussed and also whether there were design processes or designers mentioned at all.
 
 
