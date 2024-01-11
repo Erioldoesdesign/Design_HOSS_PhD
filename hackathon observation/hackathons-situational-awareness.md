@@ -71,7 +71,20 @@ This paper by Máirín Duffy speaks to some of the ways in which OSS culture imp
 
 Of the 29 people that comprised the teams described, it was not stated how many were of what kind of profession/practice - user experience is mentioned but not mentioned in relation to any project (winner or otherwise) and design/user experience methods are not given a chane to explain why/how they played an (important or otherwise) part in the hackathon.
 
-Upon contacting the Hackathon organisers they sent over the hackathon events company ['wrap up'](https://www.kreativdistrikt.com/recap-of-the-digital-future-of-justice-hackathon/) which again did not contacin any references to design processes used in the hackathon. Furthermore the project titles show no related results on github or gitlab. There was also links to some [video recordings](https://www.youtube.com/watch?v=1e4buMXHt-E) of session that happened during the hackathon event
+Upon contacting the Hackathon organisers they sent over the hackathon events company ['wrap up'](https://www.kreativdistrikt.com/recap-of-the-digital-future-of-justice-hackathon/) which again did not contacin any references to design processes used in the hackathon. Furthermore the project titles show no related results on github or gitlab. There was also links to some [video recordings](https://www.youtube.com/watch?v=1e4buMXHt-E) of session that happened during the hackathon event. The video states that a priority of the hackathon was to 'bring together' 6 diffferent countries that are part of the EU 'together'. 
+There's a statement by one of the EU Council *"...how using technology especially in the field of justice is very much linked to Human Rights considerations and 'what is human rights' and what do we need to respect when we deal with the digitalization of Justice in general"* Timestamp 3.46 by Anastasiia Saliuk.
+
+They also state at one point that technology 'doesn't need' to be explained to the attendees as they are already mostly technical people (and lawyers).
+
+*"Openness of justice"* is stated. Timestamp 5.26. 
+
+Around the 10 min mark, one of the EU council member introduces a 'case study' which is described more like what designers would consider a user story about tags, labels and how those databases are searched by human rights lawyers/workers.
+
+'Mixed teams' were described as 'programers/people that know about AI/ML or technical side' and then the 'legal side'. There is then discussion about why the lawyers are present as a measure against the developer 'mindset' to build based on assumptions and to speak to the lawyers and understand the limitations of their role. Essentially described as the users - though 'user' as a word is never used.
+
+*"Just because they can't code doesn't mean they're not useful...they can identify information they need to deliver teh report/presentation."* Timestamp 19.00 Thomas Lampert.
+
+At Timestamp 21.27 There is the first mention of 'Innovation' *"don't just go and try and implement the most complicated thing but of course describe this complicated thing that if that's how you want to approach it to um to to have some to to show that you've fulfilled The Innovation aspect of the health..."*
 
 
 ### [HACK FOR HUMANITY - Community Centered Design: Improving the Humanitarian User Experience](https://watson.brown.edu/chrhs/education/Hack-for-Humanity)
