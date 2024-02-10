@@ -27,6 +27,8 @@ This report comes at a time when the 3 international humanitarian community is f
 **Abstract**
 An ethnographic case study of the Innovation Unit of UNICEF, the United NationsChildren Fund, examines how design attitude approaches manifest within the innovation agendaof the organization. Our analysis illuminates key principles, practices and processes involved inthe programmatic implementation of the innovation mandate at UNICEF and reveals theemergent nature of modes of generative design responsible for new configurations of socialpractices. Thestudy confirms the positive impact of key design attitude dimensions in advancing processes oforganizational change and identifies a set of wins for design while also pointing to real barriersthat illustrate how these design modes remain at the edge of an uncharted territory. At the macro-level of analysis, two important findings of the study reside in elucidating how design attitude inthis organizational context of global innovation is impacted by the themes of accountability andurgency that govern the institutional logics of the organization.
 
+### 
+
 
 ## Informed Consent
 Located here: [Consent Form](https://github.com/Erioldoesdesign/Design_HOSS_PhD/blob/main/ecosystem%20mapping%20Interviews/ecosystem-mapping-consent-form.md)
