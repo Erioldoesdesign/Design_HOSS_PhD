@@ -1,4 +1,4 @@
-This was not a paper but backgroun reading on the general tragedy of the commons.
+This was not a paper but background reading on the general tragedy of the commons.
 
 I think the key aspects to think of in terms of my research into designs and H-OSS is around the key issues of: Sharing in the commons, Ownership, Ego, Dominance, The concept of governance in design (or the absence of it).
 
