@@ -22,3 +22,5 @@ Innovation as understood as personal empowerment.
 ## Paper
 [Designing for Disadvantaged Job Seekers: Insights from
 Early Investigations](https://www.tawannadillahunt.com/wp-content/uploads/2016/04/DesigningforJobSeekersv9-final.pdf)
+
+The paper doesn't go into detail about the nature of participatory processes and inclusion in design and stays on the topic of underrepresented folks in job seeking situations.
