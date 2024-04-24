@@ -30,7 +30,7 @@ Search sites:
 4. https://thehaguepeace.org/haguehacks/the-hague-hacks-festival/
 5. https://www.vhacks.org/
 
-5. ## Relevant as of 2023
+5. ## Relevant as of 2023 into 2024
 1. https://www.ushahidi.com/about/blog/want-your-code-to-matter-come-hack-at-ushahidi/
 2. https://g0v.hackmd.io/iPjhwnHLSGO0Z3B5G9egiQ
 4. https://kyroz.devpost.com/
@@ -42,9 +42,14 @@ Search sites:
 10. https://mlh.io/
 11. https://digitaljustice.tech/
 12. https://www.kreativdistrikt.com/events/
+13. https://www.hackathonforgood.org/
 
 ## Relevant reading and blogs
 
 https://innovation.mit.edu/blog-post/why-we-hack-for-freedom/
+
 https://www.coe.int/en/web/national-implementation/-/upcoming-digital-future-of-justice-tjeni-hackathon-on-18-19-november-2023-in-paris
+
 https://data.europa.eu/en/news-events/news/digital-future-justice-insights-hackathon
+
+https://www.hackathonforgood.org/news/the-hackathon-for-good-announced-its-winner

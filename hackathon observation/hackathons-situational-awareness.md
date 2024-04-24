@@ -134,3 +134,28 @@ How user-friendly and intuitive is the solution for end-users? Does the project 
 
 After joining the hackathon myself and joining the discord community channels I indicated I was a designer with experience in the NGO sector looking to group with developers to make a response to the hackathon. I found 2 developers that were interested in grouping up amoungst the hundreds of registered participants. This hackathon has an approach that is 'hands-off' (like most online hackathons seem to have). There are no scheduled events, calls or organised sessions to group, ideate or develop ideas with your team or solo. Often these hackathons have a 'promotional marketing' feeling to them.
 
+
+
+### [Hackathon for Good](https://www.hackathonforgood.org)
+
+Reference article and video
+https://www.hackathonforgood.org/news/the-hackathon-for-good-announced-its-winner
+https://www.youtube.com/watch?v=BVi-Lxg3Z6o
+
+*Teams from all over the world worked for 48 hours straight to tackle today’s biggest challenges related to sustainability, privacy, open government and corruption.*
+*"The programmers at this event will be looking at real questions, dilemmas, and challenges, and the aim is to arrive at practical solutions. (…)"* - Jan van Zanen, mayor of The Hague 
+*These hackathons started out as a collaborative project between governments, universities, entrepreneurs and knowledge institutes committed to peace, justice and security.*
+
+Of the 5 projects that participated in 2022, 2 of those mention open data or open source principles. Though all projects had links to humanitarian or human rights cases some had more close links than other re. Open Data being used on government policies to model how successful they might be ahead of their voting/implementation.
+
+There is not yet a wrap up article for the 2023 team or the 2024 team.
+
+From the stream on Youtube from 2023 it looks like the teams tackled projects related to the UN sustainable development goals.
+https://www.youtube.com/watch?v=sHvEGwPN4vo
+
+The hackathon organisers have however published both the criteria for winning in their pitches for the hackathons as well as an article on the perfect hackathon team build. https://www.hackathonforgood.org/news/the-perfect-hackathon-team. In the winning criteria design is not specifically mentioned, neither are users or user research but products, prototypes and innovativeness is mentioned - though innovativeness is not elaborated on.
+
+In the perfect hackathon team descriptions are made towards a 'Hipster' type which encompasses 'creative' and 'empathetic' as key skills. I expect the reluctance to name specific technology roles in this event is so that people outside of those definitions, either by self definition or otherwise still feel as though they can participate.
+
+
+
