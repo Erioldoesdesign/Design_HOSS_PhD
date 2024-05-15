@@ -30,3 +30,25 @@ A connected paper abstract states:
 https://www.researchgate.net/publication/321875302_Bringing_Technology_and_Humanitarian_Values_Together_A_Framework_to_Design_and_Assess_Humanitarian_Information_Systems
 
 
+
+---
+
+A connected article called ['Valuing what works – Success Factors in Disaster Preparedness'](https://preparecenter.org/resource/valuing-what-works-success-factors-in-disaster-preparedness/) speaks to how design methods/activities (ethnographic interview research) attempted to ask and answer the question of *"What are successful Red Cross/Red Crescent (RCRC) preparedness practitioners already doing that works, and how can the organization better support their information needs in what they are already doing?"*
+
+The article then goes into a wheel/circle based diagram that seems to lay out the possibly circular way of working with community on projects/products. As I read through the stages of this wheel references to several design related activities/methods came up e.g. 'Rapport-Building', 'Facilitate Discovery' (both terms are very coded in the design world), 'Cultivate the 'aha' moment' (this term is commonly seen in user journey mapping and other service design related sectors but has and will be adapted for other design practices), 'Create shared vision' (typically a product design related activity or terms).
+
+Other terms in the 'Wheel of successful practice' are adjacent to openness and open source practices. Many of the sections include a participative, community based approach and in the latter quarter of the wheel in the resourcing section speaks largely to what I consider sustainable maintainer and contributor pratcices. On a critical reading of the wheel, one might suggest that the first 3 quarters are using design methods to 'set up' successful maintainership or contributor investment for the potential handing off or open participative project.
+
+There is then a [longer report](https://preparecenter.org/wp-content/sites/default/files/valuingwhatworks_26nov.pdf) that delves into the evidence.
+
+
+### Executive summary
+
+"participants revealed information most needed for success was information that resided in communities"
+
+"Therefore, successful practitioners’ most critical information needed for success is primarily accessed through their core work of interacting with communities"
+
+
+
+
+
