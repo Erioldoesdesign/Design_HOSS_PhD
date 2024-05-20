@@ -15,7 +15,7 @@ Version: 1.1
 Updated: 19.12.2023
 
 Version: 1.2
-Updated: 20.05.2024 - Updated title and new linked to version 2 documents
+Updated: 20.05.2024 - Updated title and new links to version 2 documents
 
 ---
 
