@@ -116,7 +116,7 @@ Different to the hackathons noted previously almost all the attendees were some 
 
 
 
-### [GNEC Hackathon 2024 - UN Affiliated / NGO Internships] (https://gnec-hackathon-2024.devpost.com/)
+### [GNEC Hackathon 2024 - UN Affiliated / NGO Internships](https://gnec-hackathon-2024.devpost.com/)
 
 *Create projects benefiting UNSDGs for a chance to work along UN & affiliated NGOs!
 The Global NGO Executive Committee (GNEC) and its 1,600 subsidiaries have come together to host our second annual GNEC Hackathon! We encourage those passionate about engineering, technology, and programming to join this event to demonstrate their skills while competing for prizes such as internships and mentorships with our partners. During the event, participants will have two weeks to work on a project addressing one or more of the United Nations Sustainable Development Goals (UN SDGs). This could be anything ranging from an app or a website to creating a physical product or drafting a business plan.*
@@ -133,8 +133,6 @@ How original and creative is the proposed solution? Does the project showcase no
 How user-friendly and intuitive is the solution for end-users? Does the project consider practicality and user experience in its design and implementation?*
 
 After joining the hackathon myself and joining the discord community channels I indicated I was a designer with experience in the NGO sector looking to group with developers to make a response to the hackathon. I found 2 developers that were interested in grouping up amoungst the hundreds of registered participants. This hackathon has an approach that is 'hands-off' (like most online hackathons seem to have). There are no scheduled events, calls or organised sessions to group, ideate or develop ideas with your team or solo. Often these hackathons have a 'promotional marketing' feeling to them.
-
-
 
 ### [Hackathon for Good](https://www.hackathonforgood.org)
 
