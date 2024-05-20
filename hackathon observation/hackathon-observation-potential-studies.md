@@ -1,4 +1,4 @@
-# Observation studies
+# Observation studies: Potential Study cases
 
 
 ## Project title, author, version and date
