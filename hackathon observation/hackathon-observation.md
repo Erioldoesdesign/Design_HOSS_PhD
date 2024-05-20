@@ -1,4 +1,4 @@
-# Observation studies
+# Observation studies: Positioning and background reading
 
 
 ## Project title, author, version and date
@@ -13,6 +13,9 @@ Date: 18.10.2021
 
 Version: 1.1
 Updated: 19.12.2023
+
+Version: 1.2
+Updated: 20.05.2024 - Updated title and new linked to version 2 documents
 
 ---
 
