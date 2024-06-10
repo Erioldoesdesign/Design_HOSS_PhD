@@ -15,6 +15,7 @@ Updated: 19.12.2023
 
 Version 1.2
 Updated: 20.05.2023 - Edits made to observation study documents in order to comply with ethics approval from Newcastle University
+
 ---
 
 **Dear Participant,**
